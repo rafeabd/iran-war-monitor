@@ -297,6 +297,10 @@ section {
   padding: 0;
 }
 
+.wire-list li[hidden] {
+  display: none;
+}
+
 .wire-list li {
   display: grid;
   grid-template-columns: 4.5rem 11rem 1fr;
