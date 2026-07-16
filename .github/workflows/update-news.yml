@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: update-news
   cancel-in-progress: false
@@ -29,3 +30,8 @@ jobs:
           git add data/news.json
           git commit -m "chore: refresh wire feed ($(date -u +%Y-%m-%dT%H:%MZ))"
           git push
+          # Pushes made with GITHUB_TOKEN don't trigger other workflows;
+          # dispatch the Pages deploy explicitly.
+          gh workflow run pages.yml --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}
