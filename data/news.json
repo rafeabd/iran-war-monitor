@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T18:51:15.367Z",
+  "generatedAt": "2026-07-16T19:03:23.549Z",
   "articleCount": 80,
   "sources": [
     "AP News",
@@ -9,7 +9,6 @@
     "CBS News",
     "CNBC",
     "Council on Foreign Relations",
-    "DW.com",
     "Institute for the Study of War",
     "Jacobin",
     "Los Angeles Times",
@@ -25,6 +24,7 @@
     "Time Magazine",
     "WSJ",
     "YouGov",
+    "dw.com",
     "slate.com"
   ],
   "articles": [
@@ -89,6 +89,13 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GcE9CZm0zRzJ4emlRdW1jN1A2OFFEaklNVE5mT210MF8yZm5WNjVoY0ItNE5QeFozZ3AyWVRPMWxDdlRWNGZNYndDcnVFbVc1VE9mRDBQRXNXdlNIWS01NHJQQ2pnektHSVc1Wjhuc1p3bGpx?oc=5",
       "source": "Time Magazine",
       "publishedAt": "2026-07-16T14:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "In Iran war, Trump Risks Another American ‘Forever War’",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlE3dTdabEF0LVRLcm41dkU3Y2g4S19GaVBYWUw5b0lyN3VVMmM4ekMyOXlqZTdWRVNBaV9lZWhsN1lwV0hYOWtKekRoM3I5MERMRWhPajRKOFFRdUpka21sWXZNNXdTWkhNVjFMMTNSU2dGZmotTFItczF6RXprZHZOa2xaQQ?oc=5",
+      "source": "The New York Times",
+      "publishedAt": "2026-07-16T13:20:24.000Z",
       "summary": ""
     },
     {
@@ -158,7 +165,7 @@
       "title": "Will Iran Be a Forever War?",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1udjJSbVlRQzl2a3B2TkFYWk1Md3NjOEdoMDVKeXhXb0ZzcXZpcFByUTF4MXBaSkdyNVlaOUJjbGpUZnV1X2wzdzl0RDBwU3hzVk9adE1wNURQdnp0RGdvdGExSkJneWVHUlhYdktMX0ZvX0FXaWczMzBGSHNadw?oc=5",
       "source": "The New York Times",
-      "publishedAt": "2026-07-16T06:03:14.000Z",
+      "publishedAt": "2026-07-16T04:52:00.000Z",
       "summary": ""
     },
     {
@@ -166,13 +173,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Y29uM0stWFdBX2ZvYno1emtKc25RYTZJdFVqazNHMWdJTFdCb2tlV3FqblB0dHBJRDdoNUxMeXNweGM2NW5hakdCLU9jelo4V2VKby1laGVZdw?oc=5",
       "source": "BBC",
       "publishedAt": "2026-07-16T04:06:11.000Z",
-      "summary": ""
-    },
-    {
-      "title": "In Iran war, Trump Risks Another American ‘Forever War’",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlE3dTdabEF0LVRLcm41dkU3Y2g4S19GaVBYWUw5b0lyN3VVMmM4ekMyOXlqZTdWRVNBaV9lZWhsN1lwV0hYOWtKekRoM3I5MERMRWhPajRKOFFRdUpka21sWXZNNXdTWkhNVjFMMTNSU2dGZmotTFItczF6RXprZHZOa2xaQQ?oc=5",
-      "source": "The New York Times",
-      "publishedAt": "2026-07-16T04:01:08.000Z",
       "summary": ""
     },
     {
@@ -220,7 +220,7 @@
     {
       "title": "Iran war: Tehran says it 'never welcomed war'",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1R6dnc1eWI2LWE5Y2NweTllYS10eDVhUkoyTFJteGVMUnl3eFZzenA1ZDV0QTlpbEQtcm5oak9wTU1HZ3lkX2ZwcXFjX20wYUhFcTdvU2ZuYTVGUHVvQ05yaW1JWnp2ZU1lY0xmY3R3cElIRmwta1pwTnVxVEQtV253WE8?oc=5",
-      "source": "DW.com",
+      "source": "dw.com",
       "publishedAt": "2026-07-15T22:35:15.000Z",
       "summary": ""
     },
@@ -283,7 +283,7 @@
     {
       "title": "Iran war: US launches fresh wave of strikes",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1KZlpXUEF1U2xIRmxNOG5hbk5fR3dtYmhEQXFwM2FZaXRIMncxUXZLZnRnMnFHYlpZd3IxZEhwa2t1NWtjLXNFLXZyVXhSRHhoN1ZkRnJ5VWJ2a29CcTVicHVFVnhNU29pNS1GYUFIVDg5NWxvRXRfZGJnNzFKQWJRZkw?oc=5",
-      "source": "DW.com",
+      "source": "dw.com",
       "publishedAt": "2026-07-15T17:13:30.000Z",
       "summary": ""
     },
@@ -451,7 +451,7 @@
     {
       "title": "Iran war: US launches new round of strikes",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUVZwdU9QUGloUG5mOGhwREcyM2pOUnBySm04TGdyZVJnMFJSQU13aFhIQWNPaExBOUZBMWF0a250VHpOTDloNndKX0U1d0oxTjlZcElSX3JpWjZiRFRDRzZ5LVhyVzZCbk94Y05zOEpXS3VlR0xrbEdkWU01M3lvX0k3OA?oc=5",
-      "source": "DW.com",
+      "source": "dw.com",
       "publishedAt": "2026-07-14T23:14:08.000Z",
       "summary": ""
     },
