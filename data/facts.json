@@ -1,0 +1,51 @@
+{
+  "updatedAt": "2026-07-16",
+  "caveat": "All figures are contested, lag events on the ground, and mix belligerent claims with independent estimates. Treat every number as an order of magnitude, not a fact.",
+  "warStartDate": "2026-02-28",
+  "background": "The 2026 Iran war began on 28 February when the United States and Israel launched Operation Epic Fury — coordinated strikes that killed Supreme Leader Ali Khamenei in the opening hours. Iran retaliated against Israel, US bases, and Gulf states; Hezbollah opened a Lebanon front days later. A memorandum signed 17 June at Versailles and Tehran collapsed on 8 July, and fighting has since re-centered on control of the Strait of Hormuz, which the IRGC declared closed on 12 July.",
+  "status": {
+    "headline": "Ceasefire collapsed — active hostilities",
+    "detail": "The June memorandum broke down on 8 July. The US is enforcing a naval blockade and striking coastal missile, drone and air-defense sites; Iran is attacking shipping and Gulf-hosted US bases. Indirect contacts via Qatar continue intermittently."
+  },
+  "groups": [
+    {
+      "title": "Human cost",
+      "stats": [
+        { "value": "3,482–3,636", "label": "Killed in Iran (Iranian figures)", "note": "US/Israeli estimates put Iranian military deaths alone above 6,000" },
+        { "value": "26,500+", "label": "Injured in Iran" },
+        { "value": "71", "label": "Killed in Israel", "note": "40 soldiers, 1 contractor, 30 civilians; 9,240 injured" },
+        { "value": "18", "label": "US personnel killed", "note": "548 wounded" },
+        { "value": "1,000–2,500", "label": "Hezbollah fighters killed", "note": "Estimates diverge widely" },
+        { "value": "29", "label": "Killed in Gulf states", "note": "UAE 15, Kuwait 11, Saudi Arabia 3" }
+      ]
+    },
+    {
+      "title": "Displacement & damage",
+      "stats": [
+        { "value": "Millions", "label": "Displaced across the region" },
+        { "value": ">1 in 6", "label": "Of Lebanon's population displaced", "note": "After the Israel–Hezbollah war resumed" },
+        { "value": "155", "label": "Iranian naval vessels destroyed or damaged" },
+        { "value": "190+", "label": "Ballistic missile launchers destroyed" }
+      ]
+    },
+    {
+      "title": "Economy & energy",
+      "stats": [
+        { "value": "$113.3B", "label": "Cost to US taxpayers", "note": "As of June 2026" },
+        { "value": "Largest ever", "label": "Global oil supply disruption", "note": "Hormuz carries roughly a fifth of global oil flows" },
+        { "value": "Closed", "label": "Strait of Hormuz status", "note": "Declared closed by the IRGC on 12 July; US enforcing counter-blockade" }
+      ]
+    },
+    {
+      "title": "Nuclear file",
+      "stats": [
+        { "value": "Suspended", "label": "IAEA safeguards access", "note": "Iran declared normal safeguards 'legally untenable' after strikes on Natanz and other sites" },
+        { "value": "No evidence", "label": "Of uranium weaponization", "note": "Pre-war posture assessed as 'nuclear hedging'" }
+      ]
+    }
+  ],
+  "actors": [
+    { "side": "US–Israel coalition", "members": "United States, Israel; Saudi Arabia, UAE, Kuwait and Bahrain after Iranian strikes; support from UK, Jordan, Qatar, Turkey and others" },
+    { "side": "Iran & Axis of Resistance", "members": "Iran (Supreme Leader Mojtaba Khamenei, President Pezeshkian), Hezbollah, Houthis, Popular Mobilization Forces, Hamas, Palestinian Islamic Jihad" }
+  ]
+}

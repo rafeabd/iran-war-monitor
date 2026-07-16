@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Iran War Monitor — Daily Briefing & Wire Feed</title>
+  <meta name="description" content="A daily-updated briefing on the 2026 Iran war: synthesized overview, key points, top stories, live wire feed, timeline, and key figures." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles/tokens.css" />
+  <link rel="stylesheet" href="./styles/main.css" />
+</head>
+<body>
+  <div class="page">
+    <header class="masthead">
+      <div class="masthead-meta">
+        <span class="mono" id="dateline">—</span>
+        <span class="status-flag mono" id="status-flag">Loading…</span>
+        <span class="stamp" id="day-counter">—</span>
+      </div>
+      <h1>Iran War <em>Monitor</em></h1>
+      <p class="masthead-sub">
+        An independent tracker of the 2026 Iran war: a synthesized daily briefing,
+        a live wire feed from major outlets, and the conflict's timeline and
+        figures — sources linked throughout.
+      </p>
+    </header>
+
+    <main>
+      <section aria-labelledby="briefing-heading">
+        <div class="section-head">
+          <h2 id="briefing-heading">Daily Briefing</h2>
+          <span class="stamp" id="briefing-stamp"></span>
+        </div>
+        <p class="overview" id="overview"></p>
+        <div class="briefing-grid">
+          <div class="briefing-col">
+            <h3>Key points</h3>
+            <ul class="keypoints" id="keypoints"></ul>
+          </div>
+          <div class="briefing-col">
+            <h3>Watch</h3>
+            <ul class="watchlist" id="watchlist"></ul>
+          </div>
+        </div>
+      </section>
+
+      <section aria-labelledby="stories-heading">
+        <div class="section-head">
+          <h2 id="stories-heading">Top Stories</h2>
+        </div>
+        <div class="stories" id="stories"></div>
+      </section>
+
+      <section aria-labelledby="wire-heading">
+        <div class="section-head">
+          <h2 id="wire-heading">Wire Feed</h2>
+          <span class="stamp" id="wire-stamp"></span>
+        </div>
+        <div id="wire"></div>
+        <button class="wire-more" id="wire-more" hidden>Show all headlines</button>
+      </section>
+
+      <section aria-labelledby="timeline-heading">
+        <div class="section-head">
+          <h2 id="timeline-heading">How We Got Here</h2>
+          <span class="stamp" id="timeline-stamp"></span>
+        </div>
+        <ol class="timeline" id="timeline"></ol>
+      </section>
+
+      <section aria-labelledby="facts-heading">
+        <div class="section-head">
+          <h2 id="facts-heading">Figures &amp; Actors</h2>
+          <span class="stamp" id="facts-stamp"></span>
+        </div>
+        <p class="caveat" id="caveat"></p>
+        <div id="facts"></div>
+        <dl class="actors" id="actors"></dl>
+      </section>
+    </main>
+
+    <footer>
+      <p id="methodology">
+        METHODOLOGY — The wire feed refreshes automatically from public RSS feeds
+        (AP, Reuters, Al Jazeera, BBC, The Guardian, NPR and others via Google
+        News). The briefing synthesizes the day's feed into one overview, key
+        points, and featured stories ranked by systemic significance. Timeline
+        and figures are curated from cited reporting.
+      </p>
+      <p>
+        DISCLAIMER — Casualty and damage figures in an active war are contested
+        and lag events. This site aggregates published reporting; it is not a
+        primary source. All headlines link to their original publishers.
+      </p>
+    </footer>
+  </div>
+
+  <script type="module" src="./js/main.js"></script>
+</body>
+</html>

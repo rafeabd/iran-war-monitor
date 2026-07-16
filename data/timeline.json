@@ -1,0 +1,125 @@
+{
+  "updatedAt": "2026-07-16",
+  "note": "Curated from Wikipedia (2026 Iran war), Al Jazeera, CNN, NPR and Bloomberg reporting. Dates use local reporting conventions.",
+  "events": [
+    {
+      "date": "2026-01",
+      "label": "January 2026",
+      "title": "Pre-war crisis deepens",
+      "body": "Iranian security forces violently suppress anti-government protests while US–Iran talks over alleged nuclear weapons development stall. Israeli Prime Minister Netanyahu lobbies Washington for military intervention.",
+      "phase": "prelude"
+    },
+    {
+      "date": "2026-02-27",
+      "label": "27 February",
+      "title": "Operation Epic Fury authorized",
+      "body": "President Trump orders coordinated US–Israeli strikes on Iran to commence, signing the order at 3:38 p.m. EST.",
+      "phase": "opening"
+    },
+    {
+      "date": "2026-02-28",
+      "label": "28 February",
+      "title": "War begins — Khamenei killed",
+      "body": "The largest Israeli combat sortie in history hits 500 targets with over 1,200 bombs in 24 hours. Supreme Leader Ali Khamenei is killed in a decapitation strike. A strike on a Minab girls' school kills roughly 180. Iran retaliates with 170+ ballistic missiles against Israel, Gulf capitals, and the US Fifth Fleet HQ in Bahrain.",
+      "phase": "opening"
+    },
+    {
+      "date": "2026-03-01",
+      "label": "1 March",
+      "title": "Tehran pounded; Israel hit",
+      "body": "A second strike wave levels Tehran's Revolutionary Court and internal-security headquarters. An Iranian missile breaches defenses and hits a Beit Shemesh synagogue, killing nine. Ali Larijani announces an interim leadership council.",
+      "phase": "opening"
+    },
+    {
+      "date": "2026-03-02",
+      "label": "2 March",
+      "title": "Nuclear sites struck; Lebanon front opens",
+      "body": "US–Israeli forces strike Iranian nuclear facilities including Natanz. Hezbollah launches rockets into northern Israel, triggering the 2026 Lebanon war.",
+      "phase": "opening"
+    },
+    {
+      "date": "2026-03-03",
+      "label": "3 March",
+      "title": "Nine countries drawn in",
+      "body": "104 strikes hit 19 Iranian provinces in a single day. US naval forces sink the corvette IRIS Shahid Soleimani and submarine IRIS Fateh. Mojtaba Khamenei is elected Supreme Leader, confirmed 11 March.",
+      "phase": "opening"
+    },
+    {
+      "date": "2026-03-25",
+      "label": "Late March",
+      "title": "Iran closes the Strait of Hormuz",
+      "body": "Iranian forces block the world's most critical oil chokepoint, triggering the largest supply disruption in the history of the global oil market.",
+      "phase": "escalation"
+    },
+    {
+      "date": "2026-04-01",
+      "label": "Late March – April",
+      "title": "Ground war in Lebanon",
+      "body": "Israeli ground operations push into southern Lebanon, with major battles at Khiam and Bint Jbeil. More than one-sixth of Lebanon's population is displaced.",
+      "phase": "escalation"
+    },
+    {
+      "date": "2026-04-08",
+      "label": "8 April",
+      "title": "Fragile two-week ceasefire",
+      "body": "A ceasefire takes effect but is strained immediately by continued Israeli operations in Lebanon.",
+      "phase": "diplomacy"
+    },
+    {
+      "date": "2026-04-12",
+      "label": "12–13 April",
+      "title": "Islamabad Talks collapse",
+      "body": "Negotiations in Pakistan fail. The US imposes a naval blockade of Iran while Iran keeps Hormuz shut — a 'dual blockade' strangling Gulf shipping.",
+      "phase": "diplomacy"
+    },
+    {
+      "date": "2026-06-14",
+      "label": "14 June",
+      "title": "Memorandum to end the war announced",
+      "body": "After weeks of fighting and back-channel talks, the parties announce an agreement framework to end hostilities.",
+      "phase": "diplomacy"
+    },
+    {
+      "date": "2026-06-17",
+      "label": "17 June",
+      "title": "Signed at Versailles and Tehran",
+      "body": "Trump signs the memorandum at the Palace of Versailles; President Masoud Pezeshkian signs in Tehran. The dual blockade is lifted the next day.",
+      "phase": "diplomacy"
+    },
+    {
+      "date": "2026-07-06",
+      "label": "6–7 July",
+      "title": "Hormuz attacks resume",
+      "body": "Iran fires on multiple commercial vessels in the Strait of Hormuz as ceasefire terms fray on both sides.",
+      "phase": "collapse"
+    },
+    {
+      "date": "2026-07-08",
+      "label": "8 July",
+      "title": "Ceasefire collapses",
+      "body": "The memorandum breaks down after attacks by both sides. Trump declares the deal 'over'; US strikes resume against Sirik, Qeshm and Bandar Abbas.",
+      "phase": "collapse"
+    },
+    {
+      "date": "2026-07-12",
+      "label": "12 July",
+      "title": "IRGC declares Hormuz closed",
+      "body": "The Revolutionary Guard declares the Strait of Hormuz closed over 'US interference', calling the strait Iran's 'inviolable red line'.",
+      "phase": "collapse"
+    },
+    {
+      "date": "2026-07-15",
+      "label": "15 July",
+      "title": "US strikes Greater Tunb; blockade enforced",
+      "body": "A 90-minute US operation hits missile storage and launch sites on Greater Tunb Island, then air-defense, drone and coastal-surveillance sites. A US aircraft disables a tanker attempting to run the blockade.",
+      "phase": "collapse"
+    },
+    {
+      "date": "2026-07-16",
+      "label": "16 July",
+      "title": "Sixth straight day of exchanges",
+      "body": "US and Iranian forces trade fire for a sixth consecutive day. Iran condemns a strike near a children's cancer hospital as 'barbaric'; the release of an American detainee is read by some as a possible opening for renewed talks.",
+      "phase": "collapse"
+    }
+  ]
+}

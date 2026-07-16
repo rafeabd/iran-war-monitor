@@ -1,0 +1,63 @@
+{
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-16T19:30:00Z",
+  "overview": "The war's sixth straight day of renewed fighting has become a battle for the Strait of Hormuz. The US completed another wave of strikes — hitting Bandar Abbas, Bushehr and missile sites on Greater Tunb Island — and disabled an unladen tanker running its reimposed blockade, while Iran, declaring the June memorandum void and the conflict 'existential,' struck Gulf-hosted US bases and threatened to halt all Middle East energy exports. Against that, one genuine opening: Tehran released Dena Karari, a dual US-Iranian citizen detained since 2024 — a gesture read as a possible path to climbdown as Qatari-mediated contacts continue.",
+  "keyPoints": [
+    { "text": "US strikes expanded into northern Iran, Bushehr and Bandar Abbas; a tanker bound for the Kharg Island oil terminal was disabled with Hellfire missiles.", "storyId": "hormuz-blockade" },
+    { "text": "The IRGC keeps Hormuz closed and Tehran threatens to halt all Middle East energy exports if US strikes on infrastructure proceed.", "storyId": "hormuz-blockade" },
+    { "text": "Iran freed Dena Karari, an American detained since 2024 — the day's clearest de-escalation signal.", "storyId": "diplomatic-signals" },
+    { "text": "Trump refuses to rule out ground troops; the Wall Street Journal reports he leans toward expanding US military operations.", "storyId": "escalation-risk" },
+    { "text": "Iran alleges a 'barbaric' US strike near a children's cancer hospital; Washington has not confirmed the target.", "storyId": "civilian-toll" },
+    { "text": "US regular gas nears $4 a gallon and diesel tops $5; House Republicans push a $95bn package including war funding.", "storyId": "economic-fallout" }
+  ],
+  "watch": [
+    { "date": "Coming days", "text": "Whether the Karari release converts Qatar-mediated indirect contacts into a real truce channel — Reuters calls it a possible 'path to climbdown'." },
+    { "date": "Standing threat", "text": "Trump has threatened to knock out Iranian power plants and bridges unless Tehran returns to the table; Iran promises a response 'more devastating than ever before'." },
+    { "date": "Ongoing", "text": "Thousands of merchant crew stranded at sea as Hormuz stays shut — the UN's International Maritime Organization is pressing for safe passage." }
+  ],
+  "stories": [
+    {
+      "id": "hormuz-blockade",
+      "featured": true,
+      "title": "US expands strikes and enforces blockade as Iran shuts Hormuz",
+      "publisher": "AP News",
+      "url": "https://apnews.com/",
+      "summary": "The US military completed its latest strike wave against Iran, expanding into northern Iran and hitting the port cities of Bandar Abbas and Bushehr plus missile storage and launch sites on Greater Tunb Island near the strait. A US aircraft disabled an unladen oil tanker heading for Iran's Kharg Island export terminal — the first kinetic enforcement of the reimposed blockade. Iran, which declared the strait closed on 12 July, hit back at US bases in Gulf states and threatened to halt all Middle East energy exports.",
+      "explainer": "Roughly a fifth of the world's oil moves through the Strait of Hormuz, a chokepoint narrow enough that three small islands — Greater Tunb, Lesser Tunb and Abu Musa — sit astride its shipping lanes. Whoever holds fire control over those lanes effectively taxes the global economy, which is why both sides treat the strait as the war's decisive terrain: Iran calls US interference there its 'inviolable red line,' while Washington frames its strikes as protecting freedom of navigation."
+    },
+    {
+      "id": "diplomatic-signals",
+      "featured": true,
+      "title": "Detainee release hints at an off-ramp even as attacks intensify",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/",
+      "summary": "Iran released Dena Karari, a dual US-Iranian citizen held since 2024, whom Trump said is 'now safely outside of Iran.' Reuters reports the gesture may signal a path to climbdown even as both sides step up attacks. Separately, Vice-President JD Vance said an Israeli-linked campaign had tried to sway US opinion against his diplomatic outreach to Tehran, and Qatar continues to host intermittent indirect contacts.",
+      "explainer": "Detainee releases have historically served as the lowest-cost trust signal in US-Iran diplomacy — they cost Tehran little strategically but demonstrate the leadership can deliver on a promise, which is what makes negotiators read them as openings rather than noise."
+    },
+    {
+      "id": "escalation-risk",
+      "featured": true,
+      "title": "Trump leans toward expansion; Iran calls the war 'existential'",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/world/middle-east/",
+      "summary": "Trump is leaning toward expanding US military operations in Iran, the Journal reports, and has refused to rule out ground troops. Tehran says the June peace deal is void and that it is fighting an 'existential war.' Al Jazeera games out what a US ground invasion would look like, while a Hill poll finds nearly half of Americans expect the war to last a year or more."
+    },
+    {
+      "id": "civilian-toll",
+      "featured": true,
+      "title": "Iran alleges 'barbaric' strike near children's cancer hospital",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/",
+      "summary": "Iran accused the US of a 'cowardly war crime' after a blast near a children's cancer hospital; a doctor said the explosion was so close staff believed the hospital itself was hit. The US has not confirmed what was targeted. The claim lands amid mounting scrutiny of the war's civilian cost on both sides of the exchange."
+    },
+    {
+      "id": "economic-fallout",
+      "featured": true,
+      "title": "War economics bite: $4 gas, stranded crews, $95bn funding push",
+      "publisher": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/",
+      "summary": "US regular gasoline is nearing $4 a gallon and diesel has topped $5 — up almost a dollar and a quarter year-on-year — as the Hormuz closure squeezes supply. Thousands of merchant sailors are stranded on ships trapped by the crisis. House Republicans are pushing a $95bn package covering war costs, and the US approved a nearly $2bn air-defense sale to Saudi Arabia."
+    }
+  ],
+  "notes": "Briefing synthesized from the day's wire feed (data/news.json). Featured stories are ranked by systemic significance, scale, breadth, novelty and continuity; overview, keyPoints and stories describe the same events at different altitudes."
+}
