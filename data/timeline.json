@@ -125,7 +125,14 @@
       "date": "2026-07-17",
       "label": "17 July",
       "title": "Strikes hit bridges and power grid; Marines board tanker",
-      "body": "The US expands its air campaign to Iranian infrastructure, hitting five bridges in southern Iran and, per state agency IRNA, a train station and the power grid around Bandar Abbas — making good on Trump's threat to bomb bridges and power plants. Iran says seven were killed and warns the war 'will spread.' US Marines board the tanker M/T Wen Yao in the Gulf of Oman, escalating the blockade. Separately, Lebanon's government moves to end Hezbollah's military presence.",
+      "body": "The US expands its air campaign to Iranian infrastructure, hitting five bridges in southern Iran and, per state agency IRNA, an airport and the power grid around Bandar Abbas — making good on Trump's threat to bomb bridges and power plants. Iran says seven were killed and warns the war 'will spread.' US Marines board the tanker M/T Wen Yao in the Gulf of Oman, escalating the blockade. Separately, Lebanon's government moves to end Hezbollah's military presence.",
+      "phase": "collapse"
+    },
+    {
+      "date": "2026-07-17",
+      "label": "17 July (evening)",
+      "title": "War widens across the region",
+      "body": "Iran broadens its retaliation beyond Israel and the US: missiles and drones strike US targets in Gulf states, a water desalination plant is hit in Kuwait, and Iranian accounts report attacks extended to Syria and Bahrain. The IRGC threatens 'more crushing' attacks on neighbors hosting US forces. The Wall Street Journal reports Trump is leaning toward expanding US operations, while a leaked US intelligence assessment concludes Iran retained about 70% of its missiles and launchers after the spring campaign. Satellite images reveal fresh damage inside the Bushehr nuclear power plant from strikes dated 7–12 July.",
       "phase": "collapse"
     }
   ]

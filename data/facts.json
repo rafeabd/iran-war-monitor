@@ -4,8 +4,8 @@
   "warStartDate": "2026-02-28",
   "background": "The 2026 Iran war began on 28 February when the United States and Israel launched Operation Epic Fury — coordinated strikes that killed Supreme Leader Ali Khamenei in the opening hours. Iran retaliated against Israel, US bases, and Gulf states; Hezbollah opened a Lebanon front days later. A memorandum signed 17 June at Versailles and Tehran collapsed on 8 July, and fighting has since re-centered on control of the Strait of Hormuz, which the IRGC declared closed on 12 July.",
   "status": {
-    "headline": "Ceasefire collapsed — strikes widen to infrastructure",
-    "detail": "The June memorandum broke down on 8 July. The US air campaign has expanded from military targets to Iranian infrastructure — bridges, a rail station and the power grid around Bandar Abbas — while Marines have begun boarding tankers to enforce the reimposed blockade. Iran keeps the Strait of Hormuz closed, strikes Gulf-hosted US bases, and warns the war 'will spread.' Indirect Qatar-mediated contacts continue, but a US detainee release announced on 15 July is now disputed."
+    "headline": "War widening — Iran hits Gulf states, US weighs expansion",
+    "detail": "The June memorandum broke down on 8 July. The US air campaign has expanded from military targets to Iranian infrastructure — bridges, an airport and the power grid around Bandar Abbas — while Marines board tankers to enforce the reimposed blockade. Iran, which keeps the Strait of Hormuz closed, has widened its retaliation region-wide: missiles and drones at US Gulf targets, a strike on a Kuwait desalination plant, and attacks reported in Syria and Bahrain, with the IRGC threatening 'more crushing' blows on neighbors hosting US forces. The Wall Street Journal reports Trump is leaning toward expanding operations; a US detainee release announced 15 July remains disputed."
   },
   "groups": [
     {
@@ -40,6 +40,7 @@
       "title": "Nuclear file",
       "stats": [
         { "value": "Suspended", "label": "IAEA safeguards access", "note": "Iran declared normal safeguards 'legally untenable' after strikes on Natanz and other sites" },
+        { "value": "Damaged", "label": "Bushehr nuclear power plant", "note": "Satellite images show fresh damage from strikes dated 7–12 July; Bushehr is Iran's largest nuclear plant" },
         { "value": "No evidence", "label": "Of uranium weaponization", "note": "Pre-war posture assessed as 'nuclear hedging'" }
       ]
     }
