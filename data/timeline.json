@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16",
+  "updatedAt": "2026-07-17",
   "note": "Curated from Wikipedia (2026 Iran war), Al Jazeera, CNN, NPR and Bloomberg reporting. Dates use local reporting conventions.",
   "events": [
     {
@@ -119,6 +119,13 @@
       "label": "16 July",
       "title": "Sixth straight day of exchanges",
       "body": "US and Iranian forces trade fire for a sixth consecutive day. Iran condemns a strike near a children's cancer hospital as 'barbaric'; the release of an American detainee is read by some as a possible opening for renewed talks.",
+      "phase": "collapse"
+    },
+    {
+      "date": "2026-07-17",
+      "label": "17 July",
+      "title": "Strikes hit bridges and power grid; Marines board tanker",
+      "body": "The US expands its air campaign to Iranian infrastructure, hitting five bridges in southern Iran and, per state agency IRNA, a train station and the power grid around Bandar Abbas — making good on Trump's threat to bomb bridges and power plants. Iran says seven were killed and warns the war 'will spread.' US Marines board the tanker M/T Wen Yao in the Gulf of Oman, escalating the blockade. Separately, Lebanon's government moves to end Hezbollah's military presence.",
       "phase": "collapse"
     }
   ]
