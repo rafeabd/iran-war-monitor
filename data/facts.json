@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-17",
+  "updatedAt": "2026-07-18",
   "caveat": "All figures are contested, lag events on the ground, and mix belligerent claims with independent estimates. Treat every number as an order of magnitude, not a fact.",
   "warStartDate": "2026-02-28",
   "background": "The 2026 Iran war began on 28 February when the United States and Israel launched Operation Epic Fury — coordinated strikes that killed Supreme Leader Ali Khamenei in the opening hours. Iran retaliated against Israel, US bases, and Gulf states; Hezbollah opened a Lebanon front days later. A memorandum signed 17 June at Versailles and Tehran collapsed on 8 July, and fighting has since re-centered on control of the Strait of Hormuz, which the IRGC declared closed on 12 July.",
   "status": {
-    "headline": "War widening — Iran hits Gulf states, US weighs expansion",
-    "detail": "The June memorandum broke down on 8 July. The US air campaign has expanded from military targets to Iranian infrastructure — bridges, an airport and the power grid around Bandar Abbas — while Marines board tankers to enforce the reimposed blockade. Iran, which keeps the Strait of Hormuz closed, has widened its retaliation region-wide: missiles and drones at US Gulf targets, a strike on a Kuwait desalination plant, and attacks reported in Syria and Bahrain, with the IRGC threatening 'more crushing' blows on neighbors hosting US forces. The Wall Street Journal reports Trump is leaning toward expanding operations; a US detainee release announced 15 July remains disputed."
+    "headline": "War widening — US surges warplanes as Iran rules out wartime talks",
+    "detail": "The June memorandum broke down on 8 July. A seventh consecutive night of US strikes has pushed deeper into Iran's interior and civilian infrastructure — bridges, an airport, the Bandar Abbas power grid and now water systems, which Iran says left about 10,000 people without water — while Marines board tankers to enforce the reimposed blockade. The US is deploying F-16s and F-35s to the region and, per Axios, sending dozens of refueling tankers to Israel, giving shape to the expansion the WSJ reported Trump was weighing. Iran, which keeps the Strait of Hormuz closed, keeps retaliating region-wide (Gulf bases, a Kuwait desalination plant, reported strikes in Syria and Bahrain); an official has declared negotiating during war 'over' and ex-IRGC chief Mohsen Rezaee has threatened 'full-scale war', as UN chief António Guterres urges renewed diplomacy."
   },
   "groups": [
     {
@@ -23,6 +23,7 @@
       "title": "Displacement & damage",
       "stats": [
         { "value": "Millions", "label": "Displaced across the region" },
+        { "value": "~10,000", "label": "Left without water in southern Iran", "note": "Iranian figure after US strikes on water infrastructure, 18 July" },
         { "value": ">1 in 6", "label": "Of Lebanon's population displaced", "note": "After the Israel–Hezbollah war resumed" },
         { "value": "155", "label": "Iranian naval vessels destroyed or damaged" },
         { "value": "190+", "label": "Ballistic missile launchers destroyed" }

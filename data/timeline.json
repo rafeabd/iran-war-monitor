@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17",
+  "updatedAt": "2026-07-18",
   "note": "Curated from Wikipedia (2026 Iran war), Al Jazeera, CNN, NPR and Bloomberg reporting. Dates use local reporting conventions.",
   "events": [
     {
@@ -133,6 +133,13 @@
       "label": "17 July (evening)",
       "title": "War widens across the region",
       "body": "Iran broadens its retaliation beyond Israel and the US: missiles and drones strike US targets in Gulf states, a water desalination plant is hit in Kuwait, and Iranian accounts report attacks extended to Syria and Bahrain. The IRGC threatens 'more crushing' attacks on neighbors hosting US forces. The Wall Street Journal reports Trump is leaning toward expanding US operations, while a leaked US intelligence assessment concludes Iran retained about 70% of its missiles and launchers after the spring campaign. Satellite images reveal fresh damage inside the Bushehr nuclear power plant from strikes dated 7–12 July.",
+      "phase": "collapse"
+    },
+    {
+      "date": "2026-07-18",
+      "label": "18 July",
+      "title": "Seventh night of strikes; Tehran rules out wartime talks",
+      "body": "A seventh consecutive night of US strikes pushes deeper into Iran's interior and civilian infrastructure; CENTCOM says the aim is to keep degrading Iran's military, while Iran says an attack in the south cut water to roughly 10,000 people. Force posture escalates in step: the US deploys F-16s and F-35s to the Middle East and, per Axios, sends dozens of refueling tankers to Israel — giving shape to the expansion the WSJ reported Trump was weighing. An Iranian official declares negotiating during war 'over' and former IRGC chief Mohsen Rezaee threatens 'full-scale war', as UN Secretary-General António Guterres calls for a new diplomatic push after strikes on civilian areas.",
       "phase": "collapse"
     }
   ]

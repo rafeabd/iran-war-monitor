@@ -1,84 +1,93 @@
 {
-  "date": "2026-07-17",
-  "generatedAt": "2026-07-17T22:07:23Z",
-  "overview": "Iran's warning that the war 'will spread' is starting to come true. As the US pressed a sixth night of strikes on Iranian infrastructure — bridges, a Bandar Abbas airport and the power grid around the port city — Tehran widened its retaliation across the region, firing missiles and drones at US targets in the Gulf, hitting a water desalination plant in Kuwait, and extending attacks to Syria and Bahrain, while the IRGC threatened 'more crushing' strikes on neighbors hosting US forces. President Trump is now leaning toward expanding US operations, the Wall Street Journal reports. A leaked US intelligence assessment concludes Iran still holds 70% of its missiles and launchers, and satellite images reveal fresh damage to the Bushehr nuclear plant.",
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-18T11:12:00Z",
+  "overview": "A seventh straight night of US strikes pushed deeper into Iran's interior, a shift US Central Command framed as continuing to 'degrade Iranian military capabilities' but which Iran says severed water to roughly 10,000 people in the south. The escalation is now visible in force posture as well as targets: the US is moving F-16s and F-35s into the Middle East and, Axios reports, sending dozens of refueling tankers to Israel — the makings of the expanded campaign Trump was said to be weighing. As Washington climbs, Tehran is slamming the diplomatic door: an Iranian official declared negotiating during wartime 'over' and a former IRGC chief threatened 'full-scale war', while the UN secretary-general pleaded for a new diplomatic push after attacks on civilian areas.",
   "keyPoints": [
-    { "text": "Iran widened retaliation region-wide: missiles and drones at US Gulf targets, a strike on a Kuwait water desalination plant, and attacks extended to Syria and Bahrain; the IRGC threatens 'more crushing' blows.", "storyId": "regional-escalation" },
-    { "text": "Trump is leaning toward expanding US military operations against Iran, the Wall Street Journal reports, as both sides 'creep toward a wider war'.", "storyId": "us-expansion" },
-    { "text": "Sixth night of US strikes hit five bridges, an airport and the power grid around Bandar Abbas; Iran reports seven killed and calls the civilian-infrastructure attacks war crimes.", "storyId": "infrastructure-strikes" },
-    { "text": "A leaked US intelligence report concludes Iran retained about 70% of its missiles and launchers after the 38-day spring campaign — evidence it can still inflict damage.", "storyId": "regional-escalation" },
-    { "text": "Satellite images show fresh damage inside Bushehr, Iran's largest nuclear power plant, from strikes dated 7–12 July.", "storyId": "bushehr-nuclear" },
-    { "text": "US Marines boarded the tanker M/T Wen Yao in the Gulf of Oman; the IEA warns the Hormuz crisis threatens global energy security as US gas nears $4 a gallon.", "storyId": "hormuz-energy" }
+    { "text": "Seventh straight night of US strikes pushed deeper into Iran's interior; Iran says one attack in the south cut water to about 10,000 people. CENTCOM cites degrading Iran's military.", "storyId": "seventh-night" },
+    { "text": "The US is sending F-16s and F-35s to the Middle East and, per Axios, dozens of refueling tankers to Israel — signaling the expansion Trump was reported to weigh.", "storyId": "us-buildup" },
+    { "text": "An Iranian official said negotiating during war is 'over'; ex-IRGC chief Mohsen Rezaee threatened 'full-scale war' if bombing continues, as the UN chief urged renewed diplomacy.", "storyId": "diplomacy-closes" },
+    { "text": "Iran keeps hitting back region-wide — US Gulf bases, a Kuwait desalination plant, and Iranian-reported strikes in Syria and Bahrain — its arsenal still largely intact.", "storyId": "regional-escalation" },
+    { "text": "The Strait of Hormuz stays closed and the war has narrowed around it; US diesel has topped $5 a gallon and regular gas nears $4.", "storyId": "hormuz-energy" },
+    { "text": "Nearly half of Americans expect the war to last a year or more, a new poll finds, as commentators warn Trump risks another 'forever war'.", "storyId": "seventh-night" }
   ],
   "watch": [
-    { "date": "Coming days", "text": "Whether Trump orders the expanded operations the WSJ reports he is weighing — and whether Iran's regional strikes pull Gulf states deeper into direct combat." },
-    { "date": "Standing threat", "text": "The IRGC's threat of 'more crushing' attacks on neighboring countries that host US forces, and Iran's vow to halt all Middle East energy exports if infrastructure strikes continue." },
-    { "date": "Ongoing", "text": "Whether the disputed US detainee release and stalled Qatar-mediated contacts can survive as both sides escalate." }
+    { "date": "Coming days", "text": "Whether the incoming F-16s, F-35s and refueling tankers presage the expanded US operations Trump was reported weighing — deeper strikes or a move against Iranian soil rather than only its infrastructure." },
+    { "date": "Standing threat", "text": "Mohsen Rezaee's warning that continued bombing pulls Iran into 'full-scale war', paired with Tehran's stance that no talks occur while strikes go on." },
+    { "date": "Ongoing", "text": "Whether the UN secretary-general's call for a new diplomatic push finds any purchase as both capitals harden and civilian infrastructure keeps taking hits." }
   ],
   "stories": [
     {
+      "id": "seventh-night",
+      "featured": true,
+      "title": "Seventh night of strikes reaches deeper into Iran",
+      "publisher": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/17/us-launches-seventh-night-of-iran-strikes-as-hormuz-conflict-escalates",
+      "summary": "The US launched a seventh consecutive night of strikes on Iran, with US Central Command saying on X the attacks were designed to 'continue degrading Iranian military capabilities'. Coverage from NPR and Al Jazeera describes the campaign shifting further into Iran's interior and its civilian infrastructure: after nights spent on bridges, an airport and the power grid around the port of Bandar Abbas, the latest wave hit water infrastructure in the south, which Iran says left roughly 10,000 people without water and cut supply to whole villages. Iranian outlets put the toll of recent strikes at around eight killed. Analysts at Al Jazeera called the target set a 'strategic shift', and commentators across CNN and The New York Times warned that Trump risks dragging the US into another open-ended 'forever war'.",
+      "explainer": "The move from military sites to water, power and transport is the logic of strategic coercion — squeezing civilian life to force a government back to the table — but it rarely works quickly and it deepens the humanitarian toll fastest. Cutting water to villages in mid-summer is both a survival crisis and a propaganda gift to Tehran, which frames each such strike as a war crime; historically, infrastructure bombing tends to harden a population's resolve rather than break it, which is why 'strategic shift' and 'no closer to resolution' keep appearing in the same reports."
+    },
+    {
+      "id": "us-buildup",
+      "featured": true,
+      "title": "US surges warplanes and tankers toward the fight",
+      "publisher": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wdWZPMDJyNmZjNk04ZXNBaGo0b3pTdHdXRmJaQ253WlNoVDNkOVFDLU5Oc1FYNXRlTF9sWExqTmwta3poTjNJaUFjMVlEbHlqdWhKNHhScXJZZE12bXpNN0R6SC1jck9UOElHckE4cjV6V0tDRnc?oc=5",
+      "summary": "The Pentagon is reinforcing the region as the war reignites. Air & Space Forces Magazine reported the US is deploying F-16 and F-35 fighter jets to the Middle East, and Axios reported Washington is sending dozens of aerial-refueling planes to Israel as an Iranian escalation looms. The buildup gives concrete shape to the Wall Street Journal's earlier report that Trump was leaning toward expanding US military operations against Iran. Refueling tankers in particular are the enabler for sustained long-range air operations — the aircraft that let fighters and bombers reach distant targets and loiter over them — so their forward deployment is read as preparation for a heavier, longer campaign rather than the current nightly pinpricks.",
+      "explainer": "Force posture often signals intent more reliably than statements. Fifth-generation F-35s add stealth penetration against Iran's surviving air defenses, while a fleet of tankers extends how far and how long any strike package can operate — the difference between harassing raids and a campaign able to hold targets deep inside Iran at will. Positioning them now, alongside the WSJ's 'expansion' reporting, suggests Washington is building the option for a wider war even if it has not yet decided to fight one."
+    },
+    {
+      "id": "diplomacy-closes",
+      "featured": true,
+      "title": "Iran shuts the door on wartime talks",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/iranian-official-says-the-policy-of-negotiating-during-war-is-over",
+      "summary": "Tehran hardened its diplomatic stance as the strikes continued. An Iranian official said the policy of negotiating during war is 'over', and Mohsen Rezaee — a former commander-in-chief of the Islamic Revolutionary Guard Corps and a senior Iranian official — warned that if the US keeps bombing, Iran will escalate its response into 'full-scale war'. The posture follows Tehran's declaration earlier in the week that the June peace memorandum is void and that it is fighting an 'existential war'. Cutting the other way, the UN secretary-general, António Guterres, called for a new diplomatic push after strikes on civilian areas, and a US poll found nearly half of Americans expect the war to run a year or more — a public bracing for a long fight rather than a quick settlement.",
+      "explainer": "When a combatant declares it will not negotiate under fire, it removes the ceasefire-then-talk sequence that usually ends such wars, leaving only two paths: one side is coerced into stopping first, or the fighting escalates until exhaustion. Rezaee's 'full-scale war' language matters because a former IRGC chief speaks for the hardline security establishment, not the diplomats — signaling that the faction most able to widen the war, not end it, is ascendant in Tehran just as Washington masses aircraft."
+    },
+    {
       "id": "regional-escalation",
       "featured": true,
-      "title": "Iran's retaliation spreads across the region",
-      "publisher": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states",
-      "summary": "Iran broadened its counterattacks well beyond Israel and the US on Friday, firing missiles and drones at US targets in Gulf states, striking a water desalination plant in Kuwait, and — according to Iranian accounts reported by CNBC — extending attacks to Syria and Bahrain. The Islamic Revolutionary Guard Corps (IRGC) threatened 'more crushing' attacks against neighboring countries that host US forces. The widening front gives weight to Tehran's warning that the war 'will spread', and to a leaked US intelligence assessment, reported by the Guardian, that Iran retained roughly 70% of its ballistic missiles and launchers after the 38-day spring campaign — meaning it still has the arsenal to sustain a regional fight.",
-      "explainer": "Iran's strategy of hitting the US through the Gulf states that host its bases is deliberate: it raises the cost of the American campaign without striking the US mainland, and it pressures Kuwait, Bahrain, Qatar and the UAE to lean on Washington for a ceasefire. But it is also the mechanism by which a US-Iran duel becomes a regional war — a desalination plant knocked out in Kuwait or a missile landing near a Gulf capital can force a previously hedging government to become a full belligerent, which is exactly the spiral the phrase 'the war will spread' describes."
-    },
-    {
-      "id": "us-expansion",
-      "featured": true,
-      "title": "Trump leans toward expanding US operations",
-      "publisher": "The Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVU1pOWZlc0haRHRFZW94VEpMSWVFSWszTkNodnpWdG1OaDRSeElLdXd2UGRVWC0tUGNvdWJrQzdhblBBVTlRbEpnLTBTRmhrYkNIVFZQdl9GbHZQUTIyM05PNENGc194QUtjNnhEbndGZUFRd3E0b2d0dTR0UTVoNFd3LXUwZ3pKR2xCQXhpUTN3a3NrNHVIQ3ZmWklrdUJ0Z09mQ2Zka21mR3c?oc=5",
-      "summary": "President Trump is leaning toward expanding US military operations against Iran, the Wall Street Journal reported, as the two countries 'creep toward a wider war' through escalating tit-for-tat attacks. The report comes after six straight nights of US strikes that have moved from military targets to Iranian infrastructure, and as Iran widens its own retaliation across the Gulf. What form an expansion would take — deeper strikes inside Iran, a larger naval presence to enforce the blockade, or a broader target set — was not spelled out, but the direction of travel points away from the off-ramp that a disputed detainee release briefly seemed to offer earlier in the week.",
-      "explainer": "An 'expansion' signals that Washington sees its current infrastructure-coercion campaign as not yet forcing Tehran back to the table. Each rung up the escalation ladder — more targets, boots closer to Iranian soil, heavier enforcement at sea — narrows the room for a face-saving climbdown on either side and raises the odds that a miscalculation, rather than a decision, sets the war's next phase."
-    },
-    {
-      "id": "infrastructure-strikes",
-      "featured": true,
-      "title": "US bombs bridges, airport and power grid",
-      "publisher": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran",
-      "summary": "In a sixth consecutive night of attacks, the US expanded its air campaign from military targets to Iranian infrastructure, striking five bridges in southern Iran and, according to Iranian state agency IRNA, an airport and the electricity grid around the port city of Bandar Abbas, causing power outages. The strikes make good on President Trump's warning that he would bomb Iran's bridges and power plants unless Tehran resumed talks. Iran said seven people were killed in the latest wave, accused the US of deliberately hitting civilian infrastructure — which it calls a war crime — and warned that the war 'will spread'. The US has not confirmed the civilian-casualty claims.",
-      "explainer": "Deliberately striking bridges, an airport and the power grid marks a shift from a campaign aimed at military targets to strategic coercion — using pressure on civilian life to force a government back to the table. It is a high-risk escalation: infrastructure strikes raise the civilian toll, are hard to reverse, and historically tend to harden a population's resolve rather than break it, which is why Iran frames them as war crimes and vows the conflict will widen."
-    },
-    {
-      "id": "bushehr-nuclear",
-      "featured": true,
-      "title": "Satellite images reveal damage to Bushehr nuclear plant",
-      "publisher": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant",
-      "summary": "Satellite imagery published Friday shows fresh damage inside Bushehr, Iran's largest nuclear power plant, from strikes dated between 7 and 12 July — the window in which the ceasefire collapsed and the US resumed its campaign. The images add a nuclear dimension to a war that had lately centered on the Strait of Hormuz and infrastructure. Iran has kept IAEA safeguards access suspended since strikes on Natanz and other sites earlier in the war, declaring normal inspections 'legally untenable', which leaves outside monitors reliant on satellites to assess damage to sensitive facilities.",
-      "explainer": "Bushehr is a civilian power reactor rather than an enrichment site, so strikes near it carry a distinct danger: damage to a fueled reactor or its cooling and containment systems risks a radiological release that would spread across the Gulf regardless of which side is blamed. With IAEA inspectors locked out, no independent body can currently verify the plant's condition — which is why satellite analysis has become the main window into whether the war is edging toward a nuclear-safety crisis."
+      "title": "Iran's retaliation stays region-wide",
+      "publisher": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtd2pWYzQ1aTluVWJEYUphVUI4T202cEFxZ1VoUHQ4N1lVTGpEQVFZcGM2Ym1TMjJtZDBOVG1wQy1oZl9xV1FvazBZX3lwOWRwdjFidHpDWHZra1hqcWVyM2VzeTZmMFVjMEhaZ25BSHhmQjVJZjNr?oc=5",
+      "summary": "Iran continues to answer the US campaign by striking the American footprint spread across its neighbors rather than the US mainland: missiles and drones at US targets in the Gulf, a water desalination plant hit in Kuwait, and — per Iranian accounts reported by CNBC — attacks extended to Syria and Bahrain. The IRGC has threatened 'more crushing' blows against neighboring states that host US forces. A leaked US intelligence assessment, reported earlier by the Guardian, concluded Iran retained roughly 70% of its ballistic missiles and launchers after the 38-day spring campaign — evidence it can sustain this regional fight for some time.",
+      "explainer": "Hitting the US through the Gulf states that host its bases raises the cost of the American campaign without escalating to a strike on US soil, while pressuring Kuwait, Bahrain, Qatar and the UAE to lean on Washington for a ceasefire. It is also the exact mechanism by which a US-Iran duel becomes a regional war: a plant knocked out in Kuwait or a missile near a Gulf capital can turn a hedging government into a full belligerent."
     },
     {
       "id": "hormuz-energy",
       "featured": true,
-      "title": "Marines board tanker as energy shock deepens",
-      "publisher": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran",
-      "summary": "US Marines boarded the tanker M/T Wen Yao in the Gulf of Oman, the US military said — a sharp escalation of the reimposed blockade, which until now had relied on disabling ships from the air. Iran, which declared the Strait of Hormuz closed on 12 July, says the waterway will not return to its pre-war status. The head of the International Energy Agency, Fatih Birol, warned that the crisis threatens global energy security. In the US, regular gasoline is nearing $4 a gallon and diesel has topped $5, while analysts estimate the war's cost could run toward $100bn.",
-      "explainer": "Roughly a fifth of the world's oil moves through the Strait of Hormuz, a chokepoint narrow enough that a handful of small islands sit astride its shipping lanes. Boarding a vessel is a heavier step than disabling one from the air: it puts American personnel on a foreign-flagged ship in contested water, creating direct opportunities for a firefight, hostage-taking, or a miscalculation that pulls other navies in — which is why each escalation of enforcement raises, rather than lowers, the odds of a wider clash."
+      "title": "The war narrows around Hormuz as fuel prices climb",
+      "publisher": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tU1duU2JId1FSbUpJeDg4NmcyaE5LZ3J2ZmZReGpaSjRRNmhVY3dFaTFJYzlGQjNkQ0lmZW9PNDVtYy1aLTBpQU42dTFFdDg4c0w4d1c4RGRCNTdoc0h0emVmZzhKcWNiU0dXRXQyY0FSRWJqWXc?oc=5",
+      "summary": "With the Strait of Hormuz closed since 12 July and US forces enforcing a counter-blockade — disabling tankers from the air and, this week, boarding the M/T Wen Yao — the conflict has increasingly centered on the waterway itself, described by NBC as a war now 'all about the Strait of Hormuz'. NPR reported that recognizing Iran's claim over the strait could set a dangerous precedent for other contested waterways. The energy shock is biting at home: US diesel has topped $5 a gallon and regular gasoline is nearing $4, according to AAA figures cited by the Guardian — roughly $1.25 higher than a year ago.",
+      "explainer": "About a fifth of the world's oil moves through Hormuz, a chokepoint so narrow that a few small islands sit astride its lanes, which is why closing it produced the largest supply disruption in the history of the oil market. The fear NPR flags is precedent: if force can convert a country's coastline into control of an international strait, other powers may be tempted to do the same at chokepoints like Malacca or Bab-el-Mandeb."
+    },
+    {
+      "id": "bushehr-nuclear",
+      "featured": false,
+      "title": "Nuclear dimension lingers at Bushehr",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant",
+      "summary": "Satellite imagery published late last week showed fresh damage inside Bushehr, Iran's largest nuclear power plant, from strikes dated between 7 and 12 July — the window in which the ceasefire collapsed. With IAEA safeguards access suspended since strikes on Natanz earlier in the war, outside monitors are left reliant on satellites to gauge the condition of sensitive facilities. As US strikes push deeper into Iran's south — Bushehr sits on the Gulf coast near the newly targeted infrastructure — the risk of damage to a fueled reactor remains a background hazard to the whole campaign.",
+      "explainer": "Bushehr is a civilian power reactor, not an enrichment site, so the danger near it is radiological rather than proliferation: damage to a fueled reactor's cooling or containment could release contamination across the Gulf regardless of who is blamed. With inspectors locked out, satellite analysis is the only independent window into whether the war is edging toward a nuclear-safety crisis."
     },
     {
       "id": "detainee-dispute",
       "featured": false,
-      "title": "Off-ramp narrows as detainee release stays in dispute",
+      "title": "Detainee off-ramp stays in dispute",
       "publisher": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/",
-      "summary": "The release of Dena Karari, a dual US-Iranian citizen detained since December 2024, which President Trump announced on 15 July as a possible opening, remains 'in dispute', Reuters reports, even as Iran and the US step up their attacks. Iran's foreign ministry has insisted Tehran 'never welcomed war', but the thin channel of indirect, Qatar-mediated contacts has little to show as the fighting widens. Cutting the other way, the family of Craig Foreman, a Briton jailed in Iran, said his sentence had been extended by two years for speaking to the media from prison.",
-      "explainer": "Detainee releases are usually the lowest-cost trust signal in US-Iran diplomacy, which is why a release turning contested matters: if the two sides cannot even agree on whether a hand-over happened, the gesture that read earlier in the week as a path to climbdown loses its meaning."
+      "summary": "The release of Dena Karari, a dual US-Iranian citizen detained since December 2024, which President Trump announced on 15 July as a possible opening, remains in dispute even as both sides step up attacks. With an Iranian official now declaring wartime negotiation 'over', the thin channel of indirect contacts that the release briefly seemed to open has little left to show. Separately, the family of Craig Foreman, a Briton jailed in Iran, said his sentence had been extended by two years for speaking to the media from prison.",
+      "explainer": "Detainee releases are normally the lowest-cost trust signal in US-Iran diplomacy, which is why a contested one matters: if the sides cannot even agree on whether a hand-over happened, the gesture that read as a path to climbdown loses its meaning — and Tehran's new refusal to talk under fire drains what remained of it."
     },
     {
       "id": "lebanon-hezbollah",
       "featured": false,
-      "title": "Lebanon moves to end Hezbollah's armed presence",
+      "title": "Lebanon presses to disarm Hezbollah",
       "publisher": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
-      "summary": "Lebanon's foreign minister, Youssef Raggi, said the government had taken a decision to 'end Hezbollah's military presence', stressing that decisions on war and foreign policy are the 'exclusive prerogative of the Lebanese state'. The move to assert a state monopoly on force and disarm the Iran-backed group comes as Beirut tries to keep out of the widening US-Iran war and after the 2026 Lebanon war left more than a sixth of the country's population displaced.",
-      "explainer": "Hezbollah is the most powerful member of Iran's 'Axis of Resistance' — the network of allied militias Tehran uses to project force across the region — and its Lebanon front tied down Israeli forces earlier in the war. A Lebanese government push to disarm it would strip Iran of its strongest regional lever at the moment Tehran most needs to threaten escalation, though forcing the issue risks reopening Lebanon's own internal conflict."
+      "summary": "Lebanon's foreign minister, Youssef Raggi, said the government had decided to 'end Hezbollah's military presence', stressing that decisions on war and foreign policy are the 'exclusive prerogative of the Lebanese state'. The move to assert a state monopoly on force and disarm the Iran-backed group comes as Beirut tries to stay out of the widening US-Iran war, and after the 2026 Lebanon war displaced more than a sixth of the country's population.",
+      "explainer": "Hezbollah is the most powerful member of Iran's 'Axis of Resistance', the network of allied militias Tehran uses to project force. A Lebanese push to disarm it would strip Iran of its strongest regional lever just as Tehran most needs to threaten escalation — though forcing the issue risks reopening Lebanon's own internal conflict."
     }
   ],
-  "notes": "Briefing synthesized from the day's wire feed (data/news.json, generated 2026-07-17T18:16Z). The manual RSS refresh was blocked by the egress proxy (HTTP 403 on all sources), but the scheduled workflow had already refreshed the feed, which now runs later than the prior briefing. Featured stories are ranked by systemic significance, scale, breadth, novelty and continuity; overview, keyPoints and stories describe the same events at different altitudes. Contested claims — casualty counts, the disputed detainee release, the leaked 70% missile-retention figure, and alleged strikes on civilian sites — are attributed to their sources."
+  "notes": "Briefing synthesized from the day's wire feed (data/news.json, generated 2026-07-18T07:09Z by the scheduled GitHub Actions workflow). The manual RSS refresh via scripts/fetch-news.mjs was blocked by the environment's egress policy (403 CONNECT on all news hosts), so this briefing draws on the workflow-committed feed rather than a fresh manual pull. Featured stories are ranked by systemic significance, scale, breadth, novelty and continuity; overview, keyPoints and stories describe the same events at different altitudes. Contested claims — casualty and water-outage figures, the '70%' missile-retention estimate, Iranian-reported strikes in Syria and Bahrain, and civilian-infrastructure damage — are attributed to their sources."
 }
