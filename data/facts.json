@@ -4,8 +4,8 @@
   "warStartDate": "2026-02-28",
   "background": "The 2026 Iran war began on 28 February when the United States and Israel launched Operation Epic Fury — coordinated strikes that killed Supreme Leader Ali Khamenei in the opening hours. Iran retaliated against Israel, US bases, and Gulf states; Hezbollah opened a Lebanon front days later. A memorandum signed 17 June at Versailles and Tehran collapsed on 8 July, and fighting has since re-centered on control of the Strait of Hormuz, which the IRGC declared closed on 12 July.",
   "status": {
-    "headline": "War widening — US surges warplanes as Iran rules out wartime talks",
-    "detail": "The June memorandum broke down on 8 July. A seventh consecutive night of US strikes has pushed deeper into Iran's interior and civilian infrastructure — bridges, an airport, the Bandar Abbas power grid and now water systems, which Iran says left about 10,000 people without water — while Marines board tankers to enforce the reimposed blockade. The US is deploying F-16s and F-35s to the region and, per Axios, sending dozens of refueling tankers to Israel, giving shape to the expansion the WSJ reported Trump was weighing. Iran, which keeps the Strait of Hormuz closed, keeps retaliating region-wide (Gulf bases, a Kuwait desalination plant, reported strikes in Syria and Bahrain); an official has declared negotiating during war 'over' and ex-IRGC chief Mohsen Rezaee has threatened 'full-scale war', as UN chief António Guterres urges renewed diplomacy."
+    "headline": "War in its second week — Iran suspends interim deal and strikes US allies",
+    "detail": "The June memorandum broke down on 8 July, and the renewed war has now entered its second week. Iran says it is suspending its commitments to the interim deal with Washington — reviving the dormant nuclear file — and warns 'no political border' will be safe, broadening strikes onto US allies: repeated attacks on Kuwait's Mangaf district, missiles downed over Jordan and sirens in Bahrain. The US says it has completed the latest round of strikes on bridges and water plants across southern Iran (Iran says ~10,000 left without water; Iranian outlets put the July toll near 50), while enforcing the reimposed port blockade and surging F-16s, F-35s and, per Axios, dozens of refueling tankers to Israel. The Strait of Hormuz stays closed; Iraq has signed 48 deals in Washington, including a pipeline to bypass it. UN chief António Guterres urges renewed diplomacy."
   },
   "groups": [
     {
@@ -40,7 +40,7 @@
     {
       "title": "Nuclear file",
       "stats": [
-        { "value": "Suspended", "label": "IAEA safeguards access", "note": "Iran declared normal safeguards 'legally untenable' after strikes on Natanz and other sites" },
+        { "value": "Suspended", "label": "IAEA safeguards access", "note": "Iran declared normal safeguards 'legally untenable' after strikes on Natanz; on 18 July it also suspended its commitments to the interim deal with the US" },
         { "value": "Damaged", "label": "Bushehr nuclear power plant", "note": "Satellite images show fresh damage from strikes dated 7–12 July; Bushehr is Iran's largest nuclear plant" },
         { "value": "No evidence", "label": "Of uranium weaponization", "note": "Pre-war posture assessed as 'nuclear hedging'" }
       ]
