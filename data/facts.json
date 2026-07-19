@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-18",
+  "updatedAt": "2026-07-19",
   "caveat": "All figures are contested, lag events on the ground, and mix belligerent claims with independent estimates. Treat every number as an order of magnitude, not a fact.",
   "warStartDate": "2026-02-28",
   "background": "The 2026 Iran war began on 28 February when the United States and Israel launched Operation Epic Fury — coordinated strikes that killed Supreme Leader Ali Khamenei in the opening hours. Iran retaliated against Israel, US bases, and Gulf states; Hezbollah opened a Lebanon front days later. A memorandum signed 17 June at Versailles and Tehran collapsed on 8 July, and fighting has since re-centered on control of the Strait of Hormuz, which the IRGC declared closed on 12 July.",
   "status": {
-    "headline": "War in its second week — Iran suspends interim deal and strikes US allies",
-    "detail": "The June memorandum broke down on 8 July, and the renewed war has now entered its second week. Iran says it is suspending its commitments to the interim deal with Washington — reviving the dormant nuclear file — and warns 'no political border' will be safe, broadening strikes onto US allies: repeated attacks on Kuwait's Mangaf district, missiles downed over Jordan and sirens in Bahrain. The US says it has completed the latest round of strikes on bridges and water plants across southern Iran (Iran says ~10,000 left without water; Iranian outlets put the July toll near 50), while enforcing the reimposed port blockade and surging F-16s, F-35s and, per Axios, dozens of refueling tankers to Israel. The Strait of Hormuz stays closed; Iraq has signed 48 deals in Washington, including a pipeline to bypass it. UN chief António Guterres urges renewed diplomacy."
+    "headline": "Red line crossed — Iranian missiles kill US troops in Jordan; eighth night of strikes",
+    "detail": "For the first time since the war reignited on 8 July, Iranian ballistic missiles have killed American troops: two US service members were killed and one left missing at Jordan's Muwaffaq Salti Airbase, crossing the White House's red line against direct US casualties. Washington answered within hours, hitting Iran for an eighth consecutive night — Sirik and Hajiabad in Hormozgan province — in strikes NPR reports were cast as punishment; Iran returned fire on US forces across the Gulf, saying it launched drones at the US military in Kuwait. Tehran hardened its rupture with Washington, calling off the interim agreement and threatening 'unforgettable lessons' (Iranian outlets put the July toll near 50). The Strait of Hormuz stays closed and US diesel has topped $5 a gallon, while the US surges F-16s, F-35s and, per Axios, dozens of refueling tankers to Israel. UN chief António Guterres urges renewed diplomacy."
   },
   "groups": [
     {
@@ -14,7 +14,7 @@
         { "value": "3,482–3,636", "label": "Killed in Iran (Iranian figures)", "note": "US/Israeli estimates put Iranian military deaths alone above 6,000" },
         { "value": "26,500+", "label": "Injured in Iran" },
         { "value": "71", "label": "Killed in Israel", "note": "40 soldiers, 1 contractor, 30 civilians; 9,240 injured" },
-        { "value": "18", "label": "US personnel killed", "note": "548 wounded" },
+        { "value": "20+", "label": "US personnel killed", "note": "548 wounded; two more killed and one missing at Jordan's Muwaffaq Salti Airbase on 18–19 July, per CENTCOM — the first US combat deaths of the renewed war" },
         { "value": "1,000–2,500", "label": "Hezbollah fighters killed", "note": "Estimates diverge widely" },
         { "value": "29", "label": "Killed in Gulf states", "note": "UAE 15, Kuwait 11, Saudi Arabia 3" }
       ]

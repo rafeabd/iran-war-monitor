@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18",
+  "updatedAt": "2026-07-19",
   "note": "Curated from Wikipedia (2026 Iran war), Al Jazeera, CNN, NPR and Bloomberg reporting. Dates use local reporting conventions.",
   "events": [
     {
@@ -147,6 +147,13 @@
       "label": "18 July (afternoon)",
       "title": "Iran suspends interim deal and widens strikes onto US allies",
       "body": "As the renewed war enters its second week, Iran says it is suspending its commitments to the interim deal with the US, reviving the dormant nuclear file, and warns that 'no political border' will be safe if strikes continue. It broadens retaliation onto US-aligned states: repeated strikes send plumes of smoke over Kuwait's Mangaf district and hit civilian sites, Jordan shoots down incoming missiles, and sirens sound in Bahrain. The US military says it has completed the latest round of strikes on bridges and water plants; Iranian outlets put the July death toll near 50. In Washington, Iraq signs 48 deals with US companies, including rebuilding an Iraq-Syria crude pipeline that could bypass the Strait of Hormuz.",
+      "phase": "collapse"
+    },
+    {
+      "date": "2026-07-19",
+      "label": "18–19 July",
+      "title": "US troops killed in Jordan; eighth 'punishment' night of strikes",
+      "body": "Iranian ballistic missiles strike Jordan's Muwaffaq Salti Airbase, killing two US service members and leaving one missing — the first American combat deaths since the war reignited on 8 July, and the crossing of the red line the White House had drawn against direct US casualties. CENTCOM says the troops were killed while partner forces defended against Iranian missile and drone attacks; Trump calls the deaths 'a sad thing.' Within hours the US strikes Iran for an eighth consecutive night, hitting the Sirik and Hajiabad areas of Hormozgan province in what NPR reports is framed as punishment for the deaths. Iran returns fire on US positions across the Gulf, saying it launched drones at the US military in Kuwait. Tehran hardens its rupture with Washington, calling off the interim agreement and threatening 'unforgettable lessons.'",
       "phase": "collapse"
     }
   ]
