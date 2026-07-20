@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19",
+  "updatedAt": "2026-07-20",
   "note": "Curated from Wikipedia (2026 Iran war), Al Jazeera, CNN, NPR and Bloomberg reporting. Dates use local reporting conventions.",
   "events": [
     {
@@ -161,6 +161,13 @@
       "label": "19 July (later)",
       "title": "War widens: Israel threatens re-entry, Kuwait plant ablaze",
       "body": "The renewed war visibly widens the day after the first US combat deaths. Israel warns it will respond 'with full force' if Iranian missiles strike its territory, threatening to reopen the front dormant since 8 July and turn the US-Iran duel back into a multi-front regional war. The US hits Iran for an eighth consecutive night to 'swiftly punish' the two soldiers killed at Jordan's Muwaffaq Salti Airbase, striking Sirik and Hajiabad in Hormozgan; Iran returns fire across the Gulf, setting a Kuwaiti electricity-and-water plant on fire — a second such strike in two days — with sirens in Bahrain and reportedly Jordan, and says US strikes hit an under-construction nuclear power plant. AP counts 16 US service-member deaths in the war overall, and The Economist reports the conflict is now the least popular US war since modern polling began. US Secretary of State Marco Rubio meets Lebanon's president in Washington as UN chief António Guterres presses for renewed diplomacy.",
+      "phase": "collapse"
+    },
+    {
+      "date": "2026-07-20",
+      "label": "19–20 July",
+      "title": "War 'teeters on all-out'; another US death, ninth night 'in honour', oil tops $90",
+      "body": "The renewed war slides toward all-out fighting. A US service member is killed and another wounded in Iraq during a 'controlled detonation' of a downed Iranian drone, a second theatre of American losses that ABC News says brings the war's US death toll to 17. President Trump then says a ninth consecutive night of US strikes — footage of which the military releases — was carried out 'in honour' of the fallen soldiers, recasting the campaign as open reprisal; the Washington Post reports the US now 'teeters on all-out war' and CNN warns it is 'threatening to spin out of control.' Crude passes $90 a barrel as Iran vows 'not a single drop' of oil or gas will pass the Strait of Hormuz while strikes continue, and Israel warns Iran's attacks are 'coming close' to its territory. Cutting the other way, US Secretary of State Marco Rubio signals openness to diplomacy even as the war escalates.",
       "phase": "collapse"
     }
   ]
