@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-20",
+  "updatedAt": "2026-07-20T22:08:21Z",
   "caveat": "All figures are contested, lag events on the ground, and mix belligerent claims with independent estimates. Treat every number as an order of magnitude, not a fact.",
   "warStartDate": "2026-02-28",
   "background": "The 2026 Iran war began on 28 February when the United States and Israel launched Operation Epic Fury — coordinated strikes that killed Supreme Leader Ali Khamenei in the opening hours. Iran retaliated against Israel, US bases, and Gulf states; Hezbollah opened a Lebanon front days later. A memorandum signed 17 June at Versailles and Tehran collapsed on 8 July, and fighting has since re-centered on control of the Strait of Hormuz, which the IRGC declared closed on 12 July.",
   "status": {
-    "headline": "War 'teeters on all-out' — another US death, ninth night of strikes 'in honour' of the fallen, oil tops $90",
-    "detail": "The renewed war is sliding toward the all-out fight both governments said they wanted to avoid. A US service member was killed and another wounded in Iraq during a 'controlled detonation' of a downed Iranian drone — a second theatre of American losses that brings the war's US death toll to 17 (per ABC News), two days after two troops were killed and one left missing at Jordan's Muwaffaq Salti Airbase. President Trump said a ninth consecutive night of US strikes was carried out 'in honour' of the fallen soldiers, recasting the campaign as open reprisal; the Washington Post reported the US now 'teeters on all-out war' and CNN warned it is 'threatening to spin out of control.' Crude passed $90 a barrel as Iran vowed 'not a single drop' of oil or gas would pass the Strait of Hormuz while strikes continue, and Israel warned Iran's attacks are 'coming close' to its territory, restating its 'full force' threat. Tehran has called off the interim agreement and IAEA access stays suspended. Cutting the other way, US Secretary of State Marco Rubio signaled openness to diplomacy; UN chief António Guterres continues to urge renewed talks."
+    "headline": "War pressure breaks inward and outward: lawmakers demand it 'must end', Houthis blockade Saudi Arabia, US gas tops $4",
+    "detail": "On its ninth night of US strikes the renewed war's strain began breaking inward and outward at once. At home, a bipartisan bloc of lawmakers demanded the war's termination — 'This must end' — after three US service members were killed since Friday (two at Jordan's Muwaffaq Salti Airbase, one in Iraq during a 'controlled detonation' of a downed Iranian drone), the sharpest congressional revolt yet against a campaign run largely on presidential authority; the New York Times reported the Pentagon withheld dozens of US injuries. President Trump vowed Iran would 'pay many times over' for the dead while Iranian President Masoud Pezeshkian called it 'full-scale war'; the war's US death toll stands at 17 (per ABC News). Abroad, Yemen's Iran-aligned Houthi movement declared a naval blockade of Saudi Arabia — a second maritime front alongside Iran's Hormuz closure, per Reuters — as crude held above $90 a barrel and US average gasoline topped $4 a gallon. Tehran has called off the interim agreement and IAEA access stays suspended. Cutting the other way, regional mediators pressed for a new ceasefire, US Secretary of State Marco Rubio signaled openness to talks, and UN chief António Guterres continued to urge renewed diplomacy."
   },
   "groups": [
     {
@@ -34,8 +34,10 @@
       "stats": [
         { "value": "$113.3B", "label": "Cost to US taxpayers", "note": "As of June 2026" },
         { "value": "Largest ever", "label": "Global oil supply disruption", "note": "Hormuz carries roughly a fifth of global oil flows" },
-        { "value": ">$90/bbl", "label": "Crude oil price", "note": "Passed $90 a barrel on 20 July — its highest of the war — as Iran vowed 'not a single drop' would pass Hormuz; US diesel has topped $5 a gallon" },
-        { "value": "Closed", "label": "Strait of Hormuz status", "note": "Declared closed by the IRGC on 12 July; US enforcing counter-blockade; Iran vows 'not a single drop' of oil or gas will pass while strikes continue" }
+        { "value": ">$90/bbl", "label": "Crude oil price", "note": "Held above $90 a barrel — its highest of the war — as Iran vowed 'not a single drop' would pass Hormuz" },
+        { "value": ">$4/gal", "label": "US gasoline price", "note": "US average gasoline topped $4 a gallon on 20 July (per ABC News); diesel has passed $5 — the war's cost reaching American drivers" },
+        { "value": "Closed", "label": "Strait of Hormuz status", "note": "Declared closed by the IRGC on 12 July; US enforcing counter-blockade; Iran vows 'not a single drop' of oil or gas will pass while strikes continue" },
+        { "value": "Declared", "label": "Houthi blockade of Saudi Arabia", "note": "Yemen's Iran-aligned Houthis declared a naval blockade of Saudi Arabia on 20 July, per Reuters — a second maritime front on the Red Sea approaches" }
       ]
     },
     {

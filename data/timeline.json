@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20",
+  "updatedAt": "2026-07-20T22:08:21Z",
   "note": "Curated from Wikipedia (2026 Iran war), Al Jazeera, CNN, NPR and Bloomberg reporting. Dates use local reporting conventions.",
   "events": [
     {
@@ -168,6 +168,13 @@
       "label": "19–20 July",
       "title": "War 'teeters on all-out'; another US death, ninth night 'in honour', oil tops $90",
       "body": "The renewed war slides toward all-out fighting. A US service member is killed and another wounded in Iraq during a 'controlled detonation' of a downed Iranian drone, a second theatre of American losses that ABC News says brings the war's US death toll to 17. President Trump then says a ninth consecutive night of US strikes — footage of which the military releases — was carried out 'in honour' of the fallen soldiers, recasting the campaign as open reprisal; the Washington Post reports the US now 'teeters on all-out war' and CNN warns it is 'threatening to spin out of control.' Crude passes $90 a barrel as Iran vows 'not a single drop' of oil or gas will pass the Strait of Hormuz while strikes continue, and Israel warns Iran's attacks are 'coming close' to its territory. Cutting the other way, US Secretary of State Marco Rubio signals openness to diplomacy even as the war escalates.",
+      "phase": "collapse"
+    },
+    {
+      "date": "2026-07-20",
+      "label": "20 July (evening)",
+      "title": "Congressional revolt at home, a new Houthi front abroad, gas tops $4",
+      "body": "The war's pressure breaks inward and outward at once. A bipartisan bloc of US lawmakers demands the war's termination — 'This must end' — after three service members are killed since Friday, the sharpest congressional push yet against a campaign run largely on presidential authority; the New York Times reports the Pentagon withheld dozens of US injuries sustained in the war. President Trump vows Iran will 'pay many times over' for the dead, while Iranian President Masoud Pezeshkian says his country is now in 'full-scale war.' Abroad, Yemen's Iran-aligned Houthi movement declares a naval blockade of Saudi Arabia — a second maritime front alongside Iran's Hormuz closure, per Reuters — as US average gasoline tops $4 a gallon with crude holding above $90. Regional mediators press for traction on a new ceasefire and Iran says diplomatic efforts continue through intermediaries.",
       "phase": "collapse"
     }
   ]
