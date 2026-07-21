@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T22:08:21Z",
+  "updatedAt": "2026-07-21T11:08:10Z",
   "note": "Curated from Wikipedia (2026 Iran war), Al Jazeera, CNN, NPR and Bloomberg reporting. Dates use local reporting conventions.",
   "events": [
     {
@@ -175,6 +175,13 @@
       "label": "20 July (evening)",
       "title": "Congressional revolt at home, a new Houthi front abroad, gas tops $4",
       "body": "The war's pressure breaks inward and outward at once. A bipartisan bloc of US lawmakers demands the war's termination — 'This must end' — after three service members are killed since Friday, the sharpest congressional push yet against a campaign run largely on presidential authority; the New York Times reports the Pentagon withheld dozens of US injuries sustained in the war. President Trump vows Iran will 'pay many times over' for the dead, while Iranian President Masoud Pezeshkian says his country is now in 'full-scale war.' Abroad, Yemen's Iran-aligned Houthi movement declares a naval blockade of Saudi Arabia — a second maritime front alongside Iran's Hormuz closure, per Reuters — as US average gasoline tops $4 a gallon with crude holding above $90. Regional mediators press for traction on a new ceasefire and Iran says diplomatic efforts continue through intermediaries.",
+      "phase": "collapse"
+    },
+    {
+      "date": "2026-07-21",
+      "label": "20–21 July",
+      "title": "Hormuz becomes a shooting zone; Pentagon admits ~100 wounded",
+      "body": "The battle over the Strait of Hormuz turns into a direct exchange. On a tenth consecutive night of US strikes — which CENTCOM says are aimed specifically at degrading Iran's ability to attack ships, with explosions at Bandar Abbas, Qeshm, Chabahar and Konarak — Iran's Revolutionary Guard claims attacks on an oil tanker and two other vessels in the strait, forcing one crew to abandon ship and leaving two tankers ablaze, per the Guardian and AP. Brent crude for September delivery rises about 2.7% in early Asian trade. At home, the Pentagon admits nearly 100 US service members have been wounded over two weeks of fighting — a day after the NYT reported dozens of injuries were withheld — and Democrats search for options to halt the war ('It needs to end now'), while The Hill reports the rising death count is instead driving Trump toward escalation. The State Department issues a rare 'worldwide caution' for US citizens and leaves hundreds of diplomats in limbo after a Gulf drawdown, even as mediators push a new ceasefire and the administration calls the moment a 'time of ambiguity.'",
       "phase": "collapse"
     }
   ]
