@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T11:08:00Z",
+  "updatedAt": "2026-07-22T22:06:00Z",
   "note": "Curated from Wikipedia (2026 Iran war), Al Jazeera, CNN, NPR and Bloomberg reporting. Dates use local reporting conventions.",
   "events": [
     {
@@ -196,6 +196,13 @@
       "label": "22 July",
       "title": "Nuclear threat reopens as the war's bill lands in the Senate",
       "body": "The war escalates toward its most sensitive target and its cost comes due in Congress. On an eleventh consecutive night of US strikes, President Trump threatens to hit 'Pickaxe Mountain' (Kuh-e Kolang) — an underground nuclear complex near Natanz estimated to be buried almost 100 metres inside rock — 'very heavily,' reopening the war's nuclear dimension with IAEA inspectors locked out and Iran's interim-deal commitments called off. At home, Defense Secretary Pete Hegseth tells the Senate appropriations committee the war has cost $37.5bn so far and asks for roughly $88bn more, including about $67bn to restock depleted munitions; he faces open bipartisan hostility, with Michigan Democrat Gary Peters telling him 'you, sir, are the failure,' and refuses to give any timeline for the war's end. The strikes overshadow US-mediated ceasefire talks under way in Pakistan aimed at salvaging the collapsed interim deal. Secretary of State Marco Rubio warns that an Iranian death toll in the Strait of Hormuz would set a 'dangerous precedent' as the chokepoint stays a live shooting zone and Brent holds above $90. Iran again strikes Bahrain, Kuwait and Jordan; the Houthis extend their blockade to Bab el-Mandeb and Reuters reports tankers carrying Saudi crude turning back. Iran's foreign minister Abbas Araghchi recounts being pulled from the rubble of the leadership compound whose day-one strike killed Supreme Leader Ali Khamenei.",
+      "phase": "collapse"
+    },
+    {
+      "date": "2026-07-22",
+      "label": "22 July (evening)",
+      "title": "Trump sets a tit-for-tat formula; Rubio calls Iran 'not serious'",
+      "body": "The war's escalation acquired an explicit, mechanical formula. President Trump declared the US would destroy an Iranian bridge or power plant for every Iranian attack on shipping in the Strait of Hormuz — tying US retaliation to Iran's actions and pushing the campaign deeper into civilian infrastructure — after the military completed its eleventh consecutive night of strikes. An Iranian official warned Tehran would answer by sparking power outages in the Gulf states hosting US troops. Secretary of State Marco Rubio said Iran is 'not serious about a deal,' dimming US-mediated ceasefire talks and helping lift oil prices. Jordan's army said it intercepted four of six Iranian missiles fired Wednesday, with two falling in remote areas. Iran's judiciary warned against 'infiltrators' and announced new executions under a security law passed after last year's 12-day war, opening a domestic front of repression alongside the external war. A new poll showed even Trump voters losing patience with the conflict, which The Economist had already called America's least popular war since modern polling began, while Trump insisted the midterms would not change his war plan.",
       "phase": "collapse"
     }
   ]
