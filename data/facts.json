@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-21T22:06:15Z",
+  "updatedAt": "2026-07-22T11:08:00Z",
   "caveat": "All figures are contested, lag events on the ground, and mix belligerent claims with independent estimates. Treat every number as an order of magnitude, not a fact.",
   "warStartDate": "2026-02-28",
   "background": "The 2026 Iran war began on 28 February when the United States and Israel launched Operation Epic Fury — coordinated strikes that killed Supreme Leader Ali Khamenei in the opening hours. Iran retaliated against Israel, US bases, and Gulf states; Hezbollah opened a Lebanon front days later. A memorandum signed 17 June at Versailles and Tehran collapsed on 8 July, and fighting has since re-centered on control of the Strait of Hormuz, which the IRGC declared closed on 12 July.",
   "status": {
-    "headline": "War widens to a second sea as the Houthis threaten Saudi ports and the Pentagon runs short on cash",
-    "detail": "The war opened a second maritime front. Yemen's Iran-aligned Houthis escalated their blockade of Saudi Arabia into an operational threat — warning that any tanker calling at a Saudi Red Sea port risks being attacked and threatening to close a second strait — and President Trump vowed to 'take care of' the group; the Washington Post reported a Red Sea blockade threatens a genuine new front alongside Iran's Hormuz closure. On a tenth consecutive night of US strikes, Iran's Revolutionary Guard said it hit two ships in the Strait of Hormuz plus targets in Bahrain and Jordan, and claimed a strike on Amazon infrastructure in Bahrain; Brent crude held above $90. At home, the Washington Post reported the Pentagon is 'quickly running short on cash' after sinking billions into the war, even as it admitted nearly 100 US service members wounded in two weeks (a day after the NYT reported dozens of injuries were withheld) atop 17 dead — the military named the Iraq fatality as Sgt Michael Swinton, and the WSJ reported the Jordan missile struck US troop housing. Mediators pushed a specific 10-day ceasefire as NBC warned of a 'quagmire'; Israel's Finance Minister Bezalel Smotrich said Israel has 'no interest' in joining, though CNN reported it is readying contingency plans. A bipartisan disquiet grew in Congress, where Democrats hunted a mechanism to 'end it now' and some Republicans said the war should have been 'finished' already."
+    "headline": "Trump threatens a buried nuclear site as Hegseth asks the Senate for $88bn more",
+    "detail": "The war escalated toward its nuclear dimension while its bill landed in Congress. On an eleventh consecutive night of US strikes, President Trump threatened to hit 'Pickaxe Mountain' (Kuh-e Kolang) — an underground nuclear complex near Natanz estimated to be buried almost 100 metres inside rock — 'very heavily,' with IAEA safeguards access suspended and Iran's interim-deal commitments called off. At home, Defense Secretary Pete Hegseth told the Senate appropriations committee the war has cost $37.5bn so far and asked for roughly $88bn more (about $67bn to restock depleted munitions), facing open bipartisan hostility — Michigan Democrat Gary Peters told him 'you, sir, are the failure' — and refused to give any timeline for the war's end. The strikes overshadowed US-mediated ceasefire talks under way in Pakistan to salvage the collapsed interim deal. Secretary of State Marco Rubio warned that an Iranian death toll in the Strait of Hormuz would set a 'dangerous precedent' as the chokepoint stayed a live shooting zone and Brent held above $90. Iran again struck Bahrain, Kuwait and Jordan; the Houthis extended their blockade to Bab el-Mandeb and Reuters reported tankers carrying Saudi crude turning back. Iran's foreign minister Abbas Araghchi recounted being pulled from the rubble of the leadership compound whose day-one strike killed Supreme Leader Ali Khamenei, and said he has stayed on the move since."
   },
   "groups": [
     {
@@ -33,18 +33,19 @@
     {
       "title": "Economy & energy",
       "stats": [
-        { "value": "$113.3B", "label": "Cost to US taxpayers", "note": "As of June 2026" },
+        { "value": "$37.5B", "label": "Direct US war cost so far", "note": "Defense Secretary Pete Hegseth's figure to the Senate on 21 July; he requested roughly $88bn more (about $67bn to restock depleted munitions). A separate running estimate put the broader cost to US taxpayers above $113bn as of June 2026" },
         { "value": "Largest ever", "label": "Global oil supply disruption", "note": "Hormuz carries roughly a fifth of global oil flows" },
         { "value": ">$90/bbl", "label": "Crude oil price", "note": "Held above $90 a barrel — its highest of the war; Brent for September delivery rose ~2.7% in early Asian trade on 21 July after the tenth night of strikes and a fresh tanker fire in Hormuz" },
         { "value": ">$4/gal", "label": "US gasoline price", "note": "US average gasoline topped $4 a gallon on 20 July (per ABC News); diesel has passed $5 — the war's cost reaching American drivers" },
         { "value": "Closed", "label": "Strait of Hormuz status", "note": "Declared closed by the IRGC on 12 July; now a live shooting zone — US striking to force it open, Iran attacking tankers to keep it shut. On 21 July the IRGC claimed attacks on a tanker and two other ships, one crew forced to abandon ship, two tankers ablaze" },
-        { "value": "Widening", "label": "Houthi blockade of Saudi Arabia", "note": "Declared 20 July; on 21 July Yemen's Iran-aligned Houthis warned tankers calling at Saudi Red Sea ports risk attack and threatened to close a second strait (per NPR and the Guardian). Trump vowed to 'take care of' the group — a second maritime front alongside Hormuz" }
+        { "value": "Two straits", "label": "Houthi Red Sea blockade", "note": "Declared against Saudi Arabia 20 July; by 22 July the Houthis extended it to Bab el-Mandeb — the second strait they had threatened — and Reuters reported tankers carrying Saudi crude turning back. Trump vowed to 'take care of' the group — a second maritime front alongside Hormuz" }
       ]
     },
     {
       "title": "Nuclear file",
       "stats": [
         { "value": "Suspended", "label": "IAEA safeguards access", "note": "Iran declared normal safeguards 'legally untenable' after strikes on Natanz; on 18 July it also suspended its commitments to the interim deal with the US" },
+        { "value": "Threatened", "label": "'Pickaxe Mountain' (Kuh-e Kolang)", "note": "On 22 July Trump threatened to hit this underground complex near Natanz 'very heavily'; it is estimated to be buried almost 100 metres inside a mountain, and little is publicly known about it" },
         { "value": "Damaged", "label": "Bushehr nuclear power plant", "note": "Satellite images show fresh damage from strikes dated 7–12 July; Bushehr is Iran's largest nuclear plant" },
         { "value": "No evidence", "label": "Of uranium weaponization", "note": "Pre-war posture assessed as 'nuclear hedging'" }
       ]

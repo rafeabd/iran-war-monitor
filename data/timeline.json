@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T22:06:15Z",
+  "updatedAt": "2026-07-22T11:08:00Z",
   "note": "Curated from Wikipedia (2026 Iran war), Al Jazeera, CNN, NPR and Bloomberg reporting. Dates use local reporting conventions.",
   "events": [
     {
@@ -189,6 +189,13 @@
       "label": "21 July (evening)",
       "title": "War widens to a second sea; Pentagon runs short on cash",
       "body": "The war opens a second maritime front and shows its material strain. Yemen's Iran-aligned Houthis escalate their blockade of Saudi Arabia from a declaration into an operational threat, warning shipping companies that any tanker calling at a Saudi Red Sea port risks being attacked and threatening to close a second strait; President Trump vows to 'take care of' the group if it blocks Saudi ships, and the Washington Post reports a Red Sea blockade threatens a genuine new front alongside Iran's Hormuz closure. The tenth night of US strikes continues, and Iran's Revolutionary Guard says it hit two ships in Hormuz plus targets in Bahrain and Jordan, separately claiming an attack on Amazon infrastructure in Bahrain. The Washington Post reports the Pentagon, having sunk billions into the war, is 'quickly running short on cash.' The military identifies the soldier killed in Iraq during a 'controlled detonation' of a downed drone as Sgt Michael Swinton of Fayetteville, North Carolina — the 17th US death — and the Wall Street Journal reports the Iranian missile that killed two troops at Jordan's Muwaffaq Salti Airbase struck US personnel housing. Mediators push a specific 10-day ceasefire as NBC warns of a looming 'quagmire'; Israel's Finance Minister Bezalel Smotrich says Israel has 'no interest' in joining the campaign even as CNN reports Israel is readying contingency plans. Crude holds above $90, and the shock reaches distant economies — Australia's Reserve Bank is judged twice as likely to hike rates and ASEAN diplomats voice 'serious concern.'",
+      "phase": "collapse"
+    },
+    {
+      "date": "2026-07-22",
+      "label": "22 July",
+      "title": "Nuclear threat reopens as the war's bill lands in the Senate",
+      "body": "The war escalates toward its most sensitive target and its cost comes due in Congress. On an eleventh consecutive night of US strikes, President Trump threatens to hit 'Pickaxe Mountain' (Kuh-e Kolang) — an underground nuclear complex near Natanz estimated to be buried almost 100 metres inside rock — 'very heavily,' reopening the war's nuclear dimension with IAEA inspectors locked out and Iran's interim-deal commitments called off. At home, Defense Secretary Pete Hegseth tells the Senate appropriations committee the war has cost $37.5bn so far and asks for roughly $88bn more, including about $67bn to restock depleted munitions; he faces open bipartisan hostility, with Michigan Democrat Gary Peters telling him 'you, sir, are the failure,' and refuses to give any timeline for the war's end. The strikes overshadow US-mediated ceasefire talks under way in Pakistan aimed at salvaging the collapsed interim deal. Secretary of State Marco Rubio warns that an Iranian death toll in the Strait of Hormuz would set a 'dangerous precedent' as the chokepoint stays a live shooting zone and Brent holds above $90. Iran again strikes Bahrain, Kuwait and Jordan; the Houthis extend their blockade to Bab el-Mandeb and Reuters reports tankers carrying Saudi crude turning back. Iran's foreign minister Abbas Araghchi recounts being pulled from the rubble of the leadership compound whose day-one strike killed Supreme Leader Ali Khamenei.",
       "phase": "collapse"
     }
   ]
