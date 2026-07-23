@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T22:06:00Z",
+  "updatedAt": "2026-07-23T11:07:58Z",
   "note": "Curated from Wikipedia (2026 Iran war), Al Jazeera, CNN, NPR and Bloomberg reporting. Dates use local reporting conventions.",
   "events": [
     {
@@ -203,6 +203,13 @@
       "label": "22 July (evening)",
       "title": "Trump sets a tit-for-tat formula; Rubio calls Iran 'not serious'",
       "body": "The war's escalation acquired an explicit, mechanical formula. President Trump declared the US would destroy an Iranian bridge or power plant for every Iranian attack on shipping in the Strait of Hormuz — tying US retaliation to Iran's actions and pushing the campaign deeper into civilian infrastructure — after the military completed its eleventh consecutive night of strikes. An Iranian official warned Tehran would answer by sparking power outages in the Gulf states hosting US troops. Secretary of State Marco Rubio said Iran is 'not serious about a deal,' dimming US-mediated ceasefire talks and helping lift oil prices. Jordan's army said it intercepted four of six Iranian missiles fired Wednesday, with two falling in remote areas. Iran's judiciary warned against 'infiltrators' and announced new executions under a security law passed after last year's 12-day war, opening a domestic front of repression alongside the external war. A new poll showed even Trump voters losing patience with the conflict, which The Economist had already called America's least popular war since modern polling began, while Trump insisted the midterms would not change his war plan.",
+      "phase": "collapse"
+    },
+    {
+      "date": "2026-07-23",
+      "label": "23 July",
+      "title": "Houthis strike Saudi tankers; House votes to fund the war",
+      "body": "The war widened to a second sea and found a paymaster. Yemen's Iran-aligned Houthis claimed attacks on two oil tankers carrying Saudi crude in the Red Sea — the first strikes there since the group declared a 'maritime embargo' on Saudi Arabia, turning the threatened second chokepoint kinetic and layering it atop Iran's closure of the Strait of Hormuz, per the BBC, Guardian and Al Jazeera. In Washington, the House of Representatives passed a roughly $95bn Republican budget to fund the Iran war and a separate $1.15tn military bill expanding cooperation with Israel — both largely along party lines and facing an uncertain Senate — the lower chamber's answer to Defense Secretary Pete Hegseth's request for nearly $88bn more. The US military carried out a twelfth consecutive night of strikes on Iran, which Al Jazeera reported killed two people, with explosions in Sirik, Ahvaz and Bushehr, and separately signed a civil-nuclear cooperation deal with Saudi Arabia. Iran warned it would answer 'eye for an eye' if the US acts on Trump's threat to destroy Iranian bridges and power plants for each Hormuz attack. President Trump attended the dignified transfer of fallen US service members as four were returned home, even as ABC News reported he appeared to downplay the war's deaths in social-media posts; the confirmed US toll stood at 17 dead and nearly 100 wounded.",
       "phase": "collapse"
     }
   ]

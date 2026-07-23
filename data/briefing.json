@@ -1,174 +1,157 @@
 {
-  "date": "2026-07-22",
-  "generatedAt": "2026-07-22T22:06:00Z",
-  "overview": "The war acquired an explicit retaliation formula. President Trump declared the US would destroy an Iranian bridge or power plant for every Iranian attack on shipping in the Strait of Hormuz — a tit-for-tat doctrine that puts civilian infrastructure squarely in the crosshairs, atop an 11th straight night of strikes and his standing threat to bomb the buried 'Pickaxe Mountain' nuclear complex near Natanz. An Iranian official countered that Tehran would answer by blacking out the Gulf states hosting US forces. The escalation overshadowed US-mediated ceasefire talks, which Secretary of State Marco Rubio undercut by calling Iran 'not serious about a deal,' lifting Brent crude. Meanwhile Defense Secretary Pete Hegseth's demand for roughly $88bn more still drew bipartisan fury in the Senate.",
+  "date": "2026-07-23",
+  "generatedAt": "2026-07-23T11:07:58Z",
+  "overview": "The Houthis turned their Saudi blockade kinetic, claiming attacks on two Saudi oil tankers in the Red Sea — the first strikes there since the Iran-aligned Yemeni movement declared a 'maritime embargo' on Saudi Arabia, opening a live second oil chokepoint alongside the Strait of Hormuz. The US pressed a twelfth consecutive night of strikes on Iran, which Al Jazeera reported killed two people. In Washington the escalation acquired a paymaster: the House passed a roughly $95bn budget to fund the war and a $1.15tn military bill, largely along party lines — bankrolling the campaign a divided Congress had been hunting to end, though the money still faces an uncertain Senate. The US separately signed a civil-nuclear deal with Saudi Arabia.",
   "keyPoints": [
-    { "text": "Trump said the US will destroy an Iranian bridge or power plant for each Iranian attack in the Strait of Hormuz; an Iranian official warned Tehran would answer by blacking out US-host Gulf states.", "storyId": "trump-retaliation" },
-    { "text": "Trump's standing threat to hit 'Pickaxe Mountain,' an Iranian nuclear site near Natanz buried ~100m underground, 'very heavily' keeps the war's nuclear dimension live on an 11th night of strikes.", "storyId": "nuclear-threat" },
-    { "text": "Defense Secretary Pete Hegseth told the Senate the war has cost $37.5bn and asked for ~$88bn more ($67bn to restock arms), facing bipartisan fury; Sen. Gary Peters told him 'you, sir, are the failure.'", "storyId": "hegseth-funding" },
-    { "text": "Secretary of State Marco Rubio said Iran is 'not serious about a deal,' dimming US-mediated ceasefire talks and helping push Brent crude higher as Hormuz stayed a live shooting zone.", "storyId": "hormuz-rubio" },
-    { "text": "Iran again struck Bahrain, Kuwait and Jordan — Jordan's army said it intercepted four of six incoming missiles Wednesday; the Houthis extended their blockade to Bab el-Mandeb and Saudi tankers began turning back.", "storyId": "reprisals-gulf" },
-    { "text": "Iran's judiciary warned against 'infiltrators' and announced new executions under a security law passed after last year's 12-day war — a domestic crackdown running in parallel with the external war.", "storyId": "iran-executions" }
+    { "text": "Yemen's Iran-aligned Houthis claimed attacks on two Saudi oil tankers in the Red Sea — the first strikes there since they declared a 'maritime embargo' on Saudi Arabia, turning a threatened second chokepoint into a live one.", "storyId": "houthi-tankers" },
+    { "text": "The US House passed a ~$95bn budget to fund the Iran war and a $1.15tn military bill expanding Israel cooperation, largely along party lines; both face an uncertain Senate.", "storyId": "house-funding" },
+    { "text": "The US struck Iran for a twelfth consecutive night — Al Jazeera reported the latest strike killed two people, with explosions in Sirik, Ahvaz and Bushehr — as both sides threatened civilian infrastructure.", "storyId": "twelfth-night" },
+    { "text": "The US signed a civil-nuclear cooperation deal with Saudi Arabia, per the Guardian — deepening nuclear ties with Riyadh even as US bombs fall on Iran's nuclear sites and Houthi missiles hit Saudi tankers.", "storyId": "saudi-nuclear" },
+    { "text": "Iran warned of an 'eye for an eye' response if the US acts on Trump's threat to destroy Iranian bridges and power plants for each Hormuz attack, keeping the tit-for-tat ladder live.", "storyId": "iran-eye-for-eye" },
+    { "text": "Brent crude held near its war high above $90 a barrel and US pump prices stayed above $4 a gallon as a second contested waterway threatened to erode the market's remaining cushion.", "storyId": "oil-shock" },
+    { "text": "The confirmed US toll stands at 17 dead and nearly 100 wounded; Trump attended the dignified transfer of the fallen even as he appeared to downplay the deaths in social posts.", "storyId": "us-toll" }
   ],
   "watch": [
-    { "date": "Imminent", "text": "Whether Trump acts on either standing threat — the bridge-or-power-plant retaliation formula for Hormuz attacks, or a strike on the deeply buried 'Pickaxe Mountain' nuclear complex — each of which would open a fresh rung of escalation." },
-    { "date": "This week", "text": "Whether the Senate grants Hegseth's ~$88bn request or attaches conditions — the appropriations vote that hands a Congress already hunting for an exit its first concrete lever over a war it never authorized." },
-    { "date": "Ongoing", "text": "Whether US-mediated ceasefire talks survive Rubio's 'not serious about a deal' verdict and an 11th night of strikes, or are overtaken by the nuclear threat and the widening Red Sea front." }
+    { "date": "This week", "text": "Whether the Senate takes up or blocks the House-passed war funding — the ~$95bn Iran-war budget and $1.15tn military bill — the vote that decides whether Congress bankrolls the campaign or finally reaches for the purse-string lever to end it." },
+    { "date": "Imminent", "text": "Whether the Houthi tanker attacks in the Red Sea draw a US or Saudi military response and how shippers react, now that the second chokepoint has gone from threatened to kinetic." },
+    { "date": "Standing", "text": "Whether Trump acts on his threat to destroy Iranian bridges and power plants for each Hormuz attack, or on the vow to hit the buried 'Pickaxe Mountain' nuclear complex — each a fresh rung of escalation Iran has promised to answer 'eye for an eye.'" }
   ],
   "stories": [
     {
-      "id": "trump-retaliation",
+      "id": "houthi-tankers",
       "featured": true,
-      "title": "Trump vows to destroy a bridge or power plant for each Hormuz attack",
-      "publisher": "AP News",
-      "url": "https://apnews.com/hub/iran",
-      "summary": "President Trump declared that the United States would destroy an Iranian bridge or power plant for every Iranian attack on shipping in the Strait of Hormuz, AP, the BBC and Al Jazeera reported — turning the war's central chokepoint standoff into an explicit tit-for-tat formula aimed at Iran's civilian infrastructure. The threat came after the US military completed its eleventh consecutive night of strikes on Iran. An Iranian official responded that Tehran would answer such attacks by sparking power outages in the countries that host US troops, Al Jazeera reported, extending the retaliation logic to the Gulf states ringing Iran. The exchange makes each side's threat conditional on the other's, converting a naval standoff into a mechanical escalation ladder that climbs a rung with every ship struck.",
-      "explainer": "A per-attack retaliation formula is dangerous precisely because it removes discretion: once a leader publicly ties a specific response to a specific trigger, backing down looks like weakness and following through is automatic, so the fighting escalates without anyone deciding to escalate. Targeting bridges and power plants also shifts the war deeper into civilian infrastructure — dual-use targets whose destruction hits ordinary Iranians and courts a humanitarian and legal backlash — while Iran's counter-threat to black out the Gulf states hosting US bases turns those hosts into hostages of the exchange, raising the pressure on them to demand a ceasefire."
+      "title": "Houthis attack two Saudi tankers in the Red Sea, making the blockade real",
+      "publisher": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Yemen's Iran-aligned Houthi movement claimed attacks on two oil tankers carrying Saudi crude in the Red Sea, the BBC, Guardian and Al Jazeera reported — the first strikes there since the group announced a 'maritime embargo' against Saudi Arabia earlier in the week, and the moment its threatened second front turned kinetic. The Houthis said the vessels had violated their blockade. Until now the campaign against Saudi shipping had been a declaration and a warning to shippers; attacking tankers converts it into an operational blockade of the Red Sea approaches to the region's largest oil producer, layered on top of Iran's closure of the Strait of Hormuz. The escalation lands as the US signs a nuclear deal with Riyadh and presses a twelfth night of strikes on Iran, widening a war that now presses on two oil chokepoints at once.",
+      "explainer": "Iran fights asymmetrically, and the Houthis let it open a second maritime front it need not staff itself: where Iran squeezes Hormuz, its Yemeni ally squeezes Bab el-Mandeb and the Red Sea route to Saudi ports. A blockade only reshapes markets once it is enforced — insurers and shipping lines price a declaration as a risk but reroute for real once tankers are actually hit. Two struck Saudi tankers is that threshold: it threatens the exports of the one large Gulf producer that had been a relief valve for the oil market, shrinking the cushion that has so far kept the war from becoming a full global oil crisis."
+    },
+    {
+      "id": "house-funding",
+      "featured": true,
+      "title": "House votes to fund the war — a ~$95bn budget and a $1.15tn military bill",
+      "publisher": "The New York Times",
+      "url": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation",
+      "summary": "The US House of Representatives passed a roughly $95bn Republican budget to fund the Iran war and a separate $1.15tn military spending bill that expands cooperation with Israel, the New York Times, Al Jazeera and NPR reported — the House's answer to Defense Secretary Pete Hegseth's request for tens of billions more to sustain the campaign. Both measures passed largely along party lines and now face an uncertain Senate. The votes mark a turn: a Congress that had spent the past week hunting for a lever to halt the war — with Democrats demanding it 'end now' and even some Republicans saying it should have been 'finished a long time ago' — instead moved, in its lower chamber, to bankroll it. The blueprint unlocks new dollars to replace the roughly $67bn in munitions the Pentagon says it has burned through, against a war Hegseth put at $37.5bn so far.",
+      "explainer": "Wars run on appropriated dollars, so the fight over funding is the fight over whether the war can continue. The House passing the money looks like Congress endorsing the campaign, but the party-line margin and the 'uncertain Senate' are the real story: appropriations must clear both chambers, and the Senate — where Hegseth met open bipartisan hostility and a senator told him 'you, sir, are the failure' — is where the purse-string lever could still be used to attach conditions or refuse. The $67bn to restock arms is the tell that the US has been firing munitions faster than it can replace them, a material limit on how long the air campaign can last regardless of the vote."
+    },
+    {
+      "id": "twelfth-night",
+      "featured": true,
+      "title": "Twelfth straight night of US strikes; Al Jazeera reports two killed",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers",
+      "summary": "The US military carried out a twelfth consecutive night of strikes on Iran, saying it is degrading Tehran's ability to threaten ships in the Strait of Hormuz, with explosions reported in the Iranian cities of Sirik, Ahvaz and Bushehr, Al Jazeera and the Guardian reported. Al Jazeera's live coverage reported that a US strike killed two people. The unbroken run of strikes, now stretching past a week and a half, has come as both Washington and Tehran openly threaten each other's civilian infrastructure — Trump vowing to destroy Iranian bridges and power plants, Iran warning it will black out the Gulf states hosting US forces. The persistence of the campaign, even as ceasefire mediators work and Congress votes on its cost, underlines that the fighting has settled into a grinding tempo neither the diplomacy nor the domestic backlash has yet interrupted.",
+      "explainer": "A twelfth consecutive night is less a single event than evidence of a war that has become routine: the strikes no longer spike or pause around diplomatic openings, they simply continue. Reported civilian deaths and explosions near Bushehr — Iran's largest nuclear power plant — keep two dangers live at once: a mounting human toll that feeds the domestic and legal backlash, and a radiological risk near a fueled reactor that inspectors, locked out since strikes on Natanz, cannot independently assess."
+    },
+    {
+      "id": "saudi-nuclear",
+      "featured": true,
+      "title": "US signs a nuclear deal with Saudi Arabia mid-war",
+      "publisher": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
+      "summary": "The United States signed a civil-nuclear cooperation deal with Saudi Arabia, the Guardian reported, deepening the strategic relationship with Riyadh in the middle of the Iran war. The timing is striking: Washington is extending nuclear ties to Saudi Arabia even as US bombs fall on Iran's nuclear facilities and threaten the buried 'Pickaxe Mountain' complex near Natanz, and as Iran's Houthi allies attack Saudi oil tankers in the Red Sea. Details of the agreement were thin in early reporting, but a US-Saudi nuclear pact has long carried proliferation sensitivities — Riyadh has previously signaled it would want enrichment capacity or its own program if Iran retained one. Coming now, the deal reads as Washington binding a key Gulf partner closer as the war reorders the region's alignments.",
+      "explainer": "A civil-nuclear deal is about reactors and fuel, not weapons, but with Saudi Arabia the line is politically fraught: Riyadh has said it would match Iran's nuclear capabilities, so the terms — especially whether the US permits uranium enrichment on Saudi soil — determine whether the deal caps proliferation or nudges it. Signing it while striking Iran's nuclear sites signals that Washington is trying to lock in a compliant Gulf nuclear order on its own terms, and it further entangles Saudi Arabia in a war in which its tankers are already being hit."
+    },
+    {
+      "id": "iran-eye-for-eye",
+      "featured": true,
+      "title": "Iran warns of an 'eye for an eye' if the US destroys its infrastructure",
+      "publisher": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
+      "summary": "Iran warned it would respond 'eye for an eye' if the US follows through on President Trump's threat to destroy an Iranian bridge or power plant for every Iranian attack on shipping in the Strait of Hormuz, the Guardian reported. The warning answers the mechanical retaliation formula Trump set out a day earlier and hardens it into a mutual one: each side now publicly ties a specific response to the other's action. Iran has already said it would answer such attacks by sparking power outages in the Gulf states that host US troops. The exchange keeps the war's escalation on autopilot — a ladder that climbs a rung with every ship struck and every span or plant hit, with neither leader left much room to step back without appearing to concede.",
+      "explainer": "'Eye for an eye' is the same trap as Trump's per-attack formula, seen from the other side: once both leaders have publicly committed to automatic retaliation, following through is default and backing down looks like weakness, so the fighting escalates without either side deciding to escalate. Because Iran's chosen response — blacking out the Gulf states hosting US bases — punishes third parties, it also turns those host governments into pressure points, giving them every incentive to lean on Washington for a ceasefire before the exchange reaches them."
+    },
+    {
+      "id": "oil-shock",
+      "featured": false,
+      "title": "Oil holds above $90 as a second chokepoint goes live",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/22/oil-prices-rubio-iran-deal.html",
+      "summary": "Brent crude held near its highest of the war, above $90 a barrel, with US average gasoline above $4 a gallon and diesel above $5, the Guardian and CNBC reported, after Secretary of State Marco Rubio said Iran is 'not serious about a deal' and the Houthis attacked Saudi tankers in the Red Sea. Analysts note the war has still not produced a full global oil crisis — spare capacity, alternative pipelines and strategic reserves have absorbed the shock — but the Houthi strikes on Saudi crude erode exactly the buffer that has kept the shock contained, and economists warn the pressure is reaching distant economies, with Australia's Reserve Bank judged twice as likely to raise rates.",
+      "explainer": "Roughly a fifth of the world's oil moves through Hormuz, and Saudi Arabia's exports have been the relief valve markets counted on when that strait tightened. Attacking Saudi tankers threatens that relief valve directly, which is why a second contested waterway matters out of proportion to the two ships hit: it strips the market of its assumption that some crude always slips through. The $4-a-gallon pump price is the transmission belt from the war to inflation and central-bank decisions worldwide."
+    },
+    {
+      "id": "us-toll",
+      "featured": false,
+      "title": "Trump receives the fallen — and appears to downplay them online",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
+      "summary": "President Trump attended the dignified transfer of US service members killed in the Middle East as four fallen soldiers were returned to American soil, NPR and Military Times reported, even as ABC News reported that Trump appeared to downplay the war's deaths in social-media posts comparing them to casualties in previous conflicts. The confirmed US death toll stands at 17 — spread across Iraq, Jordan, Kuwait and Bahrain — with the Pentagon acknowledging nearly 100 wounded over two weeks of strikes, a day after the New York Times reported dozens of injuries had been withheld. The juxtaposition of the solemn ceremony and the dismissive posts captures the political bind the losses have created for a president fighting a war his own voters are turning against.",
+      "explainer": "The dead and wounded are the war's most politically potent variable at home: each named casualty turns an abstract tally into a concrete cost, feeding the congressional fight over funding and war powers. A president who both honors the fallen in person and minimizes them online is managing two audiences at once — a public that recoils from the losses and a base he cannot be seen to have led into a costly, unpopular war."
     },
     {
       "id": "nuclear-threat",
-      "featured": true,
+      "featured": false,
       "title": "Trump's threat to strike 'Pickaxe Mountain' keeps the nuclear file live",
       "publisher": "BBC News",
-      "url": "https://www.bbc.com/news/live/middle-east-crisis",
-      "summary": "President Trump's threat to attack an underground Iranian nuclear facility 'very heavily,' reported by the BBC and Guardian, remained a live danger on the eleventh consecutive night of US strikes — a threat that pulls the war back toward the nuclear file it had partly moved past. The target is the complex known in the West as 'Pickaxe Mountain' (Kuh-e Kolang), sited near the Natanz enrichment plant and estimated to be buried almost 100 metres inside a mountain, making it far harder to destroy than surface sites already hit. Little is publicly known about the facility, but analysts have long assessed it as a deeply protected part of Iran's nuclear infrastructure. The threat lands with IAEA safeguards access suspended since earlier strikes on Natanz and Iran having called off its interim-deal commitments — meaning no inspectors are inside to gauge the consequences of any strike.",
-      "explainer": "Striking a hardened, deeply buried nuclear site is a different order of escalation from bombing shipping or power plants. A facility 100 metres underground is built to survive conventional bombs, so hitting it 'very heavily' implies the largest bunker-busting ordnance and raises the prospect of either failure or an uncontrolled release near sensitive nuclear material. With inspectors locked out, neither side — nor the outside world — would have an independent reading of what a strike actually did to Iran's most protected nuclear infrastructure, which is precisely what makes the threat so destabilising."
-    },
-    {
-      "id": "hegseth-funding",
-      "featured": true,
-      "title": "Hegseth tells Senate the war has cost $37.5bn — and asks for $88bn more",
-      "publisher": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/hegseth-senate-iran-war-cost",
-      "summary": "Defense Secretary Pete Hegseth told the Senate that the US-Israel war on Iran has cost $37.5bn so far and asked the appropriations committee for nearly $88bn more to sustain it — including roughly $67bn to restock depleted munitions — the Guardian, Reuters and PBS reported. The request drew open bipartisan hostility: Senator Gary Peters, the Michigan Democrat, told Hegseth 'you, sir, are the failure' over the lack of a coherent Iran strategy, while Hegseth, joined by Joint Chiefs chairman Gen. Dan Caine, insisted Iran had been 'weakened' but refused to give any timeline for the war's end. The hearing turned an abstract cost into a live vote, forcing a Congress already searching for an exit to decide whether to keep paying for a campaign it never authorized.",
-      "explainer": "Wars run on appropriated dollars, and once the Pentagon must return to Congress mid-war for tens of billions more, the legislature acquires a financial choke-point it otherwise lacks. The $67bn to 'restock arms' is telling: it means the US has been firing off munitions faster than it can replace them, a material limit on how long an air campaign can be sustained. By pairing a war-powers push with control of the purse, lawmakers now hold two levers at once — and Hegseth's refusal to name an end date is exactly what hardens their resolve to attach conditions or refuse."
-    },
-    {
-      "id": "hormuz-rubio",
-      "featured": true,
-      "title": "Rubio calls Iran 'not serious about a deal' as oil climbs",
-      "publisher": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/22/oil-prices-rubio-iran-deal.html",
-      "summary": "Secretary of State Marco Rubio said Iran is 'not serious about a deal,' a comment that helped push oil prices higher and further dimmed the US-mediated ceasefire diplomacy, CNBC reported. The remark hardened the mood around the Strait of Hormuz — through which roughly a fifth of the world's oil moves and which remained a live shooting zone through the day — where the US is striking to force shipping open and Iran is attacking tankers to keep it shut. Brent crude held near its highest of the war and US pump prices stayed above $4 a gallon. Rubio, who days earlier had also warned that an Iranian death toll in Hormuz would set a 'dangerous precedent,' cast the assessment as realism about Tehran's intentions, but it read on the ground as Washington narrowing the diplomatic opening even as mediators keep working.",
-      "explainer": "A strait where vessels are being hit and abandoned is one insurers and shippers avoid regardless of any official status, so the economic damage compounds with every ship struck. When the top US diplomat publicly judges the other side 'not serious,' it signals to markets that the fighting will continue — which is why the comment moved oil — and it raises the domestic cost for any subsequent US concession. Rubio's framing tightens the loop that keeps crude elevated and the strait closed, even as third-party mediators press on."
-    },
-    {
-      "id": "reprisals-gulf",
-      "featured": true,
-      "title": "Iran hits Bahrain, Kuwait and Jordan again; Houthis widen the Red Sea front",
-      "publisher": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live",
-      "summary": "Iran struck Bahrain, Kuwait and Jordan again in reprisal for the US bombings, Al Jazeera reported, continuing the pattern of retaliation falling on the US-aligned Gulf states that ring Iran rather than on American soil directly. Jordan's army said it intercepted four of six Iranian missiles fired Wednesday, with two falling in remote, unpopulated areas, AFP reported. In parallel the Yemeni Houthis extended their maritime campaign: after declaring a blockade of Saudi Arabia they announced a blockade of Bab el-Mandeb — the second strait they had threatened — and Reuters reported that tankers carrying Saudi crude have begun turning back. The overlapping fronts mean the war now presses on two chokepoints and a widening ring of host states at once: Iran raising the cost of sheltering US bases, and its Houthi allies squeezing the Red Sea approaches to the region's largest oil producer.",
-      "explainer": "Iran fights asymmetrically, so its reprisals land on Bahrain, Kuwait and Jordan — the states that host the bases — to make sheltering American forces politically and economically unbearable, while the Houthis open a second maritime front Iran need not staff itself. Bab el-Mandeb is the southern gateway to the Red Sea and Suez; blockading it alongside Hormuz threatens to reroute or halt a large share of Gulf energy exports. Tankers already turning away from Saudi crude is the first concrete sign the threat is reshaping real shipping decisions, not just insurance premiums."
-    },
-    {
-      "id": "iran-executions",
-      "featured": false,
-      "title": "Iran's judiciary warns of 'infiltrators,' announces new executions",
-      "publisher": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions",
-      "summary": "Iran's judiciary warned against 'infiltrators' and announced new executions, Al Jazeera reported, as the state turned inward under the pressure of the war. Many of the security cases are being prosecuted under a law adopted after last year's 12-day war with Israel — a wartime statute now being applied to a fresh wave of arrests and death sentences. The move underscores that alongside the external war fought across the Gulf and the Strait of Hormuz, Iran's leadership is waging an internal campaign against suspected collaborators and dissent, a domestic front that has widened as the fighting has dragged on.",
-      "explainer": "A leadership decapitated on the war's first day and forced to operate on the move is acutely vulnerable to infiltration and internal challenge, so a wartime crackdown serves two purposes: it hunts for the informants who could enable more targeted strikes, and it deters any move against the surviving command. Reaching for a security law written after last year's conflict shows Tehran institutionalising wartime repression — which matters for diplomacy, because a state executing suspected 'infiltrators' at home is one hardening its posture, not preparing to concede."
-    },
-    {
-      "id": "diplomacy-overshadowed",
-      "featured": false,
-      "title": "Strikes and Rubio's skepticism overshadow ceasefire talks",
-      "publisher": "AP News",
-      "url": "https://apnews.com/hub/iran",
-      "summary": "US-mediated efforts to salvage the collapsed interim ceasefire, which had moved to Pakistan, were overshadowed anew as the eleventh consecutive night of US strikes and Rubio's judgment that Iran is 'not serious about a deal' undercut the diplomacy, AP and the Guardian reported. Mediators had pressed a specific proposal — earlier framed as a 10-day ceasefire — to pause the fighting long enough for both sides to step back from the chokepoints, but the effort is running against a hardening war: Hegseth would set no timeline for its end, Iran has called off its interim-deal commitments, and Trump is threatening Iran's nuclear sites and its infrastructure. Iran's government says diplomatic contacts continue through intermediaries, leaving negotiation the war's thinnest — and still only — off-ramp.",
-      "explainer": "With the interim deal dead and IAEA inspectors locked out, there is no standing framework to fall back on, so any de-escalation must be rebuilt from scratch through third parties — the role Oman, Qatar and Pakistan are playing. Talks that proceed under an 11th night of bombing, a per-attack retaliation formula and a public US verdict that Tehran is not serious have little leverage: each strike and each hardening statement raises the price of being seen to concede, narrowing the very opening the mediators are working."
-    },
-    {
-      "id": "hegseth-70b",
-      "featured": false,
-      "title": "The Pentagon's funding crunch becomes a formal ask",
-      "publisher": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting",
-      "summary": "The Pentagon's warning that it was running short on cash crystallized into a formal request, with coverage framing the ask as roughly $67-70bn to restock arms within a nearly $88bn total request, Al Jazeera reported, as Iran activated air defences across Tehran on the 11th night of US strikes. The department put the war's cost at $37.5bn so far. The disclosure sits atop the site's running estimate of the war's cost to US taxpayers — above $113bn as of June — and turns a budget shortfall into a live congressional decision that lawmakers of both parties used to challenge the war's direction.",
-      "explainer": "A mid-war funding request is a different kind of pressure than casualties or oil prices: it forces the administration to seek fresh appropriations from a Congress already searching for a way to end the war, handing lawmakers a vote — and with it the power to attach conditions or refuse — over a campaign run largely on presidential authority."
+      "url": "https://www.theguardian.com/world/2026/jul/22/pickaxe-mountain-iran-nuclear-site-trump",
+      "summary": "President Trump's standing threat to attack an underground Iranian nuclear facility 'very heavily' remained live through the twelfth night of strikes, keeping the war's nuclear dimension in play. The target is the complex known in the West as 'Pickaxe Mountain' (Kuh-e Kolang), sited near the Natanz enrichment plant and estimated to be buried almost 100 metres inside a mountain, the Guardian reported — far harder to destroy than surface sites already hit, and little understood publicly. The threat lands with IAEA safeguards access suspended since earlier strikes on Natanz and Iran having called off its interim-deal commitments, so no inspectors are inside to gauge the consequences of any strike — a gap sharpened by explosions reported near the Bushehr nuclear plant on the twelfth night.",
+      "explainer": "Striking a hardened, deeply buried nuclear site is a different order of escalation from bombing shipping or power plants. A facility 100 metres underground is built to survive conventional bombs, so hitting it 'very heavily' implies the largest bunker-busting ordnance and raises the prospect of either failure or an uncontrolled release near sensitive nuclear material. With inspectors locked out, no one — neither side nor the outside world — would have an independent reading of what a strike actually did."
     },
     {
       "id": "war-unpopular",
       "featured": false,
-      "title": "New poll shows even Trump voters losing patience with the war",
+      "title": "Poll shows even Trump voters losing patience with the war",
       "publisher": "Politico",
       "url": "https://www.politico.com/news/2026/07/22/poll-trump-voters-iran-war",
-      "summary": "A new poll shows Trump voters losing patience with the Iran war, which Politico described as leaving the president in 'a politically impossible situation,' even as Trump insisted the midterms would not affect his war plan. The finding compounds earlier reporting, by The Economist, that the renewed conflict is the least popular US war since modern polling began — support falling below the low points of the Iraq and Vietnam wars. The erosion within the president's own base is driving events on Capitol Hill: it underpins the search for a way to terminate the war and the hostile reception Hegseth met at the Senate as American troops die and pump prices climb past $4 a gallon.",
-      "explainer": "Domestic unpopularity is a strategic variable, not just a political one: a president fighting a war the public rejects has less room to escalate and more incentive to seek an exit — but dead soldiers pull the other way, creating pressure to 'finish' the fight rather than be seen abandoning it. When the disaffection reaches the president's own voters, it sharpens that bind with midterms approaching, which is exactly the pressure now voiced openly in the fight over Hegseth's funding request."
+      "summary": "A new poll shows Trump voters losing patience with the Iran war, which Politico described as leaving the president in 'a politically impossible situation,' even as Trump insisted the midterms would not affect his war plan. The finding compounds earlier reporting, by The Economist, that the renewed conflict is the least popular US war since modern polling began — support falling below the low points of the Iraq and Vietnam wars. The erosion within the president's own base underpins the search for a way to terminate the war and the hostile Senate reception Hegseth met, even as the House voted to keep funding it.",
+      "explainer": "Domestic unpopularity is a strategic variable, not just a political one: a president fighting a war the public rejects has less room to escalate and more incentive to seek an exit — but dead soldiers pull the other way, creating pressure to 'finish' the fight rather than be seen abandoning it. When the disaffection reaches the president's own voters, it sharpens that bind with midterms approaching."
+    },
+    {
+      "id": "hegseth-funding",
+      "featured": false,
+      "title": "The war's $37.5bn bill and $88bn ask, now before Congress",
+      "publisher": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/hegseth-pentagon-supplemental-funding-request-senate",
+      "summary": "Defense Secretary Pete Hegseth told the Senate the US-Israel war on Iran has cost $37.5bn so far and asked for nearly $88bn more — including roughly $67bn to restock depleted munitions — the Guardian, PBS and Reuters reported, drawing open bipartisan hostility, with Michigan Democrat Gary Peters telling him 'you, sir, are the failure' and Hegseth refusing to give any timeline for the war's end. That request is what the House answered on 23 July, passing a roughly $95bn war budget and a $1.15tn military bill; the Senate, where the hearing turned hostile, has not.",
+      "explainer": "Once the Pentagon must return to Congress mid-war for tens of billions more, the legislature acquires a financial choke-point it otherwise lacks. The split between a House that funded the war and a Senate that grilled Hegseth over it is now the central domestic fault line — and Hegseth's refusal to name an end date is exactly what hardens senators' resolve to attach conditions or refuse."
+    },
+    {
+      "id": "reprisals-gulf",
+      "featured": false,
+      "title": "Iran's reprisals keep falling on US Gulf allies",
+      "publisher": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon",
+      "summary": "Iran's retaliation has continued to fall on the US-aligned states that ring it rather than on American soil directly, with recent reprisals against Bahrain, Kuwait and Jordan — Jordan's army said it intercepted four of six Iranian missiles fired Wednesday, with two falling in remote areas, AFP reported. Iran has separately claimed it struck Amazon infrastructure in Bahrain and set a Kuwaiti electricity-and-water plant ablaze, matching its warning that if US strikes persist 'no political border' will be safe. A leaked US assessment concluded Iran retained roughly 70% of its ballistic missiles after the spring campaign.",
+      "explainer": "Hitting the US through the Gulf states that shelter its bases raises the cost of the American campaign while pressuring those governments to lean on Washington for a ceasefire. A claimed strike on cloud infrastructure widens the target set from bases and power plants to the digital backbone of the region — a way to make hosting American forces and companies politically and economically unbearable."
+    },
+    {
+      "id": "diplomacy-overshadowed",
+      "featured": false,
+      "title": "Strikes and Rubio's skepticism keep overshadowing ceasefire talks",
+      "publisher": "AP News",
+      "url": "https://apnews.com/hub/iran",
+      "summary": "US-mediated efforts to salvage the collapsed interim ceasefire, which had moved to Pakistan, remain overshadowed as a twelfth consecutive night of strikes and Secretary of State Marco Rubio's judgment that Iran is 'not serious about a deal' undercut the diplomacy, AP and the Guardian reported. Mediators had pressed a specific proposal — earlier framed as a 10-day ceasefire — to pause the fighting long enough for both sides to step back from the chokepoints, but the effort runs against a hardening war: Hegseth would set no timeline, Iran has called off its interim-deal commitments, and Trump is threatening Iran's nuclear sites and infrastructure while Iran warns 'eye for an eye.' Iran says diplomatic contacts continue through intermediaries, leaving negotiation the war's thinnest — and still only — off-ramp.",
+      "explainer": "With the interim deal dead and IAEA inspectors locked out, there is no standing framework to fall back on, so any de-escalation must be rebuilt from scratch through third parties. Talks that proceed under a twelfth night of bombing, mutual per-attack retaliation formulas and a public US verdict that Tehran is not serious have little leverage: each strike and each hardening statement raises the price of being seen to concede."
+    },
+    {
+      "id": "minab-school",
+      "featured": false,
+      "title": "BBC returns to the Minab school where an opening-day strike killed scores of children",
+      "publisher": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly five months after the war began, the BBC visited the girls' school in Minab, southern Iran, where a strike on the conflict's opening day killed scores of children — the BBC's account put the toll at around 120 — speaking to a teacher and a mother still living with the horror. The report is a rare on-the-ground reckoning with the human cost of the campaign that opened on 28 February with the largest Israeli combat sortie in history, and a reminder that beneath the shifting fronts and funding votes the war's toll on Iranian civilians has been accumulating since its first hours.",
+      "explainer": "Casualty figures from the war's chaotic opening remain contested — early tallies of the Minab strike ranged higher — and the point of a return visit is less the exact number than the enduring cost: a single strike on a school, months on, still defines the war for the families it touched, the kind of civilian toll that shapes both Iran's resolve and the international judgment of the campaign."
     },
     {
       "id": "araghchi-khamenei",
       "featured": false,
       "title": "Iran's foreign minister recounts the strike that killed Khamenei",
       "publisher": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/22/iran-foreign-minister-araghchi-khamenei-attack",
-      "summary": "Iran's foreign minister, Abbas Araghchi, described being pulled from the rubble of a leadership compound after the US-Israeli strike on the first day of the war — the same strike that killed Supreme Leader Ali Khamenei — and said he has kept constantly on the move since, the Guardian reported. The account is a rare first-person window into Iran's decapitation at the war's outset and how its surviving leadership has operated under threat ever since. It lands as Trump threatens Iran's nuclear sites and infrastructure anew, a reminder that the conflict opened with an attempt to remove Iran's top leadership and has never returned to a stable command footing.",
-      "explainer": "Killing a state's supreme leader on day one is a decapitation strike, and its aftershocks explain much of the war's shape: a leadership that survives by staying mobile is harder to negotiate with, slower to make binding decisions, and more reliant on hardened institutions like the IRGC. Araghchi's account matters less as news than as context — it shows why Iran's responses have been fragmented and its diplomatic signals mixed, and why any ceasefire must be struck with a leadership still operating from the rubble."
-    },
-    {
-      "id": "troops-injured",
-      "featured": false,
-      "title": "Nearly 100 US troops wounded; 17 dead across four host states",
-      "publisher": "Time",
-      "url": "https://time.com/us-troops-injured-iran-war-pentagon/",
-      "summary": "The Pentagon's acknowledgment that nearly 100 US service members have been wounded over two weeks of escalating strikes — disclosed a day after the New York Times reported dozens of injuries had been withheld — continues to shape the war at home, Time and the Guardian reported. The confirmed US death toll stands at 17, spread across Iraq, Jordan, Kuwait and Bahrain; the military named the Iraq fatality as Sgt Michael Swinton of Fayetteville, North Carolina, killed during a 'controlled detonation' of a downed Iranian drone, and the Wall Street Journal reported that the Iranian missile that killed two troops at Jordan's Muwaffaq Salti Airbase struck US personnel housing.",
-      "explainer": "The injured, not just the dead, measure a war's true cost — and a count that jumped from 'dozens withheld' to nearly 100 in a day tells the public the toll has been understated. Each named casualty and each detail of a missile reaching troop housing turns an abstract tally into concrete vulnerability, feeding directly into the congressional push now colliding with Hegseth's funding request: if lawmakers conclude the scale of American losses was hidden, the case to rein the campaign in strengthens."
-    },
-    {
-      "id": "congress-halt",
-      "featured": false,
-      "title": "'It needs to end now': a bipartisan search for the exit",
-      "publisher": "Politico",
-      "url": "https://www.politico.com/news/2026/07/20/democrats-iran-war-trump-options",
-      "summary": "Democratic lawmakers are actively searching for options to halt President Trump's renewed attacks on Iran — 'It needs to end now,' with the president accused of having 'lost control of this war' — turning last week's demand to terminate the war into a hunt for a concrete legislative lever, Politico and the Guardian reported. Senator Chris Murphy, the Connecticut Democrat, argued 'Iran knows Trump will have to stop escalation before it does.' The disquiet is not confined to one party: one House Republican said 'we should have finished this a long time ago,' and the pressure sharpened at Hegseth's Senate hearing, where members of both parties challenged the war's cost and direction.",
-      "explainer": "Under the War Powers Resolution, Congress can force a floor vote to end US involvement in hostilities it never authorized — and 'searching for options' is the procedural step before such a vote is filed. Combined with Hegseth's ~$88bn appropriations request, the legislature is acquiring two levers at once: a war-powers vote and the power of the purse. The bind is that rising US deaths push the president to escalate while pushing Congress to quit — exactly how past American wars have ended."
-    },
-    {
-      "id": "hormuz-oil",
-      "featured": false,
-      "title": "Oil holds above $90 as the shock ripples out to households",
-      "publisher": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/21/rba-interest-rate-iran-war-fuel-prices",
-      "summary": "Brent crude for September delivery held above $90 a barrel — its highest of the war — after successive nights of US strikes, fresh tanker fires in the Strait of Hormuz and Rubio's comment that Iran is 'not serious about a deal,' the Guardian and CNBC reported. US average gasoline remains above $4 a gallon and diesel above $5, and the shock is visible in distant economies: experts warn the Reserve Bank of Australia is judged twice as likely to raise interest rates as higher fuel prices feed inflation. Even so, analysts note the war has not yet produced a global oil crisis — spare capacity, alternative pipelines and strategic reserves have absorbed the shock — but a second contested waterway at Bab el-Mandeb shrinks that cushion.",
-      "explainer": "Roughly a fifth of the world's oil moves through Hormuz, so each vessel actually attacked strips the market of its assumption that some crude always slips through. The $4-a-gallon pump price is the transmission belt from a foreign war to inflation and central-bank decisions worldwide, which is why crude holding above $90 is a global macro event, not just a market one — and why a second blockade at Bab el-Mandeb, forcing Saudi tankers to turn back, threatens to erode the buffers that have so far kept the shock contained."
-    },
-    {
-      "id": "iran-suspends-deal",
-      "featured": false,
-      "title": "Iran calls off the interim deal, reviving the nuclear file",
-      "publisher": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/18/us-service-members-killed-jordan-iran-interim-agreement.html",
-      "summary": "Tehran's formal rupture with Washington — calling off the interim peace agreement after earlier declaring the June memorandum 'suspended' — remains the backdrop to the renewed nuclear escalation, CNBC reported. With IAEA safeguards access suspended since strikes on Natanz and Iran now threatened with attacks on 'Pickaxe Mountain,' there is neither a live agreement nor independent monitoring over Iran's most sensitive facilities. Mediators are pressing a new ceasefire, but Rubio's judgment that Iran is 'not serious about a deal,' with US troops dead and nearly 100 wounded, has frayed the negotiating thread to near nothing.",
-      "explainer": "The interim deal was the last guardrail over the war's nuclear dimension: mutual commitments that, however frayed, gave both sides something to point to. Formally calling it off — not merely suspending commitments — removed that guardrail just as inspectors were locked out, which is what makes Trump's threat against a buried nuclear complex so fraught: there is no framework left to breach and no monitor left to verify the result."
-    },
-    {
-      "id": "bushehr-nuclear",
-      "featured": false,
-      "title": "Nuclear dimension lingers at Bushehr",
-      "publisher": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant",
-      "summary": "Satellite imagery published last week showed fresh damage inside Bushehr, Iran's largest nuclear power plant, from strikes dated between 7 and 12 July — the window in which the ceasefire collapsed — and Iranian officials have said US strikes also hit an under-construction nuclear plant. With IAEA safeguards access suspended and Iran having called off its interim-deal commitments, outside monitors are left reliant on satellites to gauge the condition of sensitive facilities. Trump's fresh threat against the 'Pickaxe Mountain' complex near Natanz sharpens the concern that the war is edging toward a nuclear-safety crisis.",
-      "explainer": "Bushehr is a civilian power reactor, not an enrichment site, so the danger near it is radiological rather than proliferation: damage to a fueled reactor's cooling or containment could release contamination across the Gulf regardless of who is blamed. With inspectors locked out, satellite analysis is the only independent window into whether strikes on any Iranian nuclear facility — Bushehr or the buried complex Trump now threatens — are edging toward a safety crisis."
+      "url": "https://www.theguardian.com/world/2026/jul/22/iran-foreign-minister-abbas-aragchi-attack-killed-khamenei",
+      "summary": "Iran's foreign minister, Abbas Araghchi, described being pulled from the rubble of a leadership compound after the US-Israeli strike on the first day of the war — the same strike that killed Supreme Leader Ali Khamenei — and said he has kept constantly on the move since, the Guardian reported. The account is a rare first-person window into Iran's decapitation at the war's outset and how its surviving leadership has operated under threat ever since, landing as Trump threatens Iran's nuclear sites and infrastructure anew.",
+      "explainer": "Killing a state's supreme leader on day one is a decapitation strike, and its aftershocks explain much of the war's shape: a leadership that survives by staying mobile is harder to negotiate with, slower to make binding decisions, and more reliant on hardened institutions like the IRGC. It shows why Iran's responses have been fragmented and its diplomatic signals mixed."
     },
     {
       "id": "israel-stance",
       "featured": false,
       "title": "Israel says 'no interest' in joining, but readies plans",
-      "publisher": "Al Jazeera",
+      "publisher": "CNN",
       "url": "https://www.aljazeera.com/news/2026/7/21/israel-no-interest-joining-us-war-iran-smotrich",
-      "summary": "Israel — which with the United States launched the war's opening blow, Operation Epic Fury, in late February — has sent a deliberately mixed message about re-entering the renewed war. Finance Minister Bezalel Smotrich said Israel has 'no interest' in joining the US military campaign against Iran, Al Jazeera reported, a public signal of restraint, even as CNN reported that Israel is quietly readying plans in case it is drawn back in. Israel has stayed off the battlefield since the fighting reignited on 8 July, leaving the current phase a US-Iran duel, but has repeatedly warned it will respond 'with full force' if Iranian weapons strike its territory.",
-      "explainer": "Israel rejoining is the fastest way to widen the war, because it doubles the fronts Iran must fight and risks reactivating Hezbollah and other 'Axis of Resistance' militias along Israel's borders. Smotrich's 'no interest' and CNN's 'readying plans' are not contradictory: they describe a government that wants to stay out but is hedging against a single errant Iranian missile that could trip its 'full force' tripwire and force it back in."
-    },
-    {
-      "id": "allies-targeted",
-      "featured": false,
-      "title": "Iran's reprisals keep falling on US Gulf allies",
-      "publisher": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon",
-      "summary": "Iran's retaliation has continued to fall on the US-aligned states that ring it rather than on American soil directly, with fresh reprisals against Bahrain, Kuwait and Jordan accompanying the latest nights of strikes, the Guardian and Al Jazeera reported. Iran has separately claimed it attacked Amazon infrastructure in Bahrain — a rare claimed strike on commercial cloud-computing facilities — and in recent days a fire hit a Kuwaiti electricity-and-water plant. The pattern matches Iran's threat, reported by The Hill, that if US strikes persist 'no political border' will be safe, and its warning that it would answer US attacks by blacking out host countries. A leaked US assessment concluded Iran retained roughly 70% of its ballistic missiles after the spring campaign.",
-      "explainer": "Hitting the US through the Gulf states that shelter its bases raises the cost of the American campaign while pressuring those governments to lean on Washington for a ceasefire. A claimed strike on cloud infrastructure widens the target set from bases and power plants to the digital backbone of the region — a way to make hosting American forces and companies politically and economically unbearable."
+      "summary": "Israel — which with the United States launched the war's opening blow, Operation Epic Fury, in late February — has sent a deliberately mixed message about re-entering the renewed war. Finance Minister Bezalel Smotrich said Israel has 'no interest' in joining the US military campaign against Iran, a public signal of restraint, even as CNN reported that Israel is quietly readying plans in case it is drawn back in. Israel has stayed off the battlefield since the fighting reignited on 8 July, leaving the current phase a US-Iran duel, but has warned it will respond 'with full force' if Iranian weapons strike its territory — a stance the newly signed US-Israel military-cooperation expansion in the House bill only deepens.",
+      "explainer": "Israel rejoining is the fastest way to widen the war, because it doubles the fronts Iran must fight and risks reactivating Hezbollah and other 'Axis of Resistance' militias. Smotrich's 'no interest' and CNN's 'readying plans' are not contradictory: they describe a government that wants to stay out but is hedging against a single errant Iranian missile that could trip its 'full force' tripwire."
     }
   ],
-  "notes": "Evening refresh of the 2026-07-22 briefing (previous cut generated 11:08Z). The manual RSS refresh via scripts/fetch-news.mjs was again blocked by the environment's egress policy (403 on all news hosts), so this draws on the workflow-committed feed (data/news.json, generated 2026-07-22T18:34Z; freshest item 18:01Z). Since the morning briefing the war added an explicit escalation rung: President Trump declared the US would destroy an Iranian bridge or power plant for every Iranian attack in the Strait of Hormuz, and an Iranian official warned Tehran would answer by blacking out the Gulf states hosting US troops. Secretary of State Marco Rubio publicly judged Iran 'not serious about a deal,' dimming the US-mediated ceasefire talks and lifting oil; Jordan's army said it intercepted four of six Iranian missiles fired Wednesday; Iran's judiciary warned against 'infiltrators' and announced new executions under a post-12-day-war security law; and a new poll showed even Trump voters losing patience with the war while Trump said the midterms would not change his plan. The standing threats to strike 'Pickaxe Mountain' and Hegseth's ~$88bn Senate request ($37.5bn spent, ~$67bn to restock arms) remain live. Featured stories are ranked by systemic significance, scale, breadth, novelty and continuity; overview, keyPoints and stories describe the same events at different altitudes. Contested claims — the war's $37.5bn cost and ~$88bn ask, casualty and injury figures (17 dead, ~100 wounded), the '70%' missile-retention estimate, oil and pump prices, the depth and nature of 'Pickaxe Mountain,' Jordan's interception count, and Iranian- or Houthi-announced actions — are attributed to their sources."
+  "notes": "Morning refresh of 2026-07-23 (previous cut generated 2026-07-22T22:06Z). The manual RSS refresh via scripts/fetch-news.mjs was again blocked by the environment's egress policy (403 on all news hosts), so this draws on the workflow-committed feed (data/news.json, generated 2026-07-23T07:44Z; freshest item 07:21Z). New since the previous briefing: Yemen's Houthis claimed attacks on two Saudi oil tankers in the Red Sea — the first strikes there since their 'maritime embargo' declaration, turning the threatened second chokepoint kinetic; the US House passed a roughly $95bn budget to fund the Iran war plus a $1.15tn military bill expanding Israel cooperation, largely along party lines and facing an uncertain Senate; the US pressed a twelfth consecutive night of strikes, which Al Jazeera reported killed two people (explosions in Sirik, Ahvaz and Bushehr); the US signed a civil-nuclear deal with Saudi Arabia; Iran warned of an 'eye for an eye' response to Trump's infrastructure-destruction threats; and Trump attended the dignified transfer of fallen soldiers while, per ABC News, appearing to downplay the deaths online. Standing threats — Trump's bridge-or-power-plant retaliation formula and his vow to hit 'Pickaxe Mountain' — remain live. Featured stories are ranked by systemic significance, scale, breadth, novelty and continuity; overview, keyPoints and stories describe the same events at different altitudes. Contested claims — the Houthi-claimed tanker attacks, the war's $37.5bn cost and ~$88bn/$95bn/$1.15tn funding figures, casualty and injury figures (17 dead, ~100 wounded, two reportedly killed on the twelfth night, the ~120 Minab-school toll), the '70%' missile-retention estimate, oil and pump prices, the depth and nature of 'Pickaxe Mountain,' Jordan's interception count, the terms of the US-Saudi nuclear deal, and Iranian- or Houthi-announced actions — are attributed to their sources."
 }
