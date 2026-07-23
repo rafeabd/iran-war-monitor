@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T07:44:37.816Z",
+  "generatedAt": "2026-07-23T18:37:39.173Z",
   "articleCount": 80,
   "sources": [
     "AP News",
@@ -8,48 +8,172 @@
     "BBC News",
     "Breaking News, Latest News and Videos",
     "CNBC",
-    "CNN",
-    "Chatham House",
     "Council on Foreign Relations",
-    "DW.com",
     "Institute for the Study of War",
-    "Los Angeles Times",
-    "Military Times",
     "NBC News",
     "NPR",
     "PBS",
     "Politico",
     "Reuters",
+    "Taxpayers for Common Sense",
+    "The Atlantic",
     "The Economist",
     "The Guardian",
     "The Hill",
+    "The Jerusalem Post",
     "The New York Times",
     "The Washington Post",
-    "Time Magazine",
+    "U.S. Department of War (.gov)",
     "WSJ",
     "grist.org"
   ],
   "articles": [
     {
-      "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live",
+      "title": "Middle East crisis is ‘getting out of control’, UN chief warns, as fears mount of escalation spiral – live updates",
       "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
       "source": "The Guardian",
-      "publishedAt": "2026-07-23T07:21:48.000Z",
-      "summary": "US military says it is degrading Tehran’s ability to threaten ships in strait of Hormuz; Houthis say tankers violated their blockade; US signs nuclear deal with Saudi Arabia Houthis claim strikes on two Saudi tankers as US attacks on Iran widen Earlier in the US day, before Iran’s Revolutionary Guar"
+      "publishedAt": "2026-07-23T18:25:23.000Z",
+      "summary": "Secretary general António Guterres tells security council the Middle East is being pushed to the ‘edge of the unimaginable’ amid latest threats from Donald Trump Trump says he is close to decision on largest-yet attack on Iran Earlier in the US day, before Iran’s Revolutionary Guard said it had stop"
     },
     {
-      "title": "Will the war on Iran affect ASEAN’s efforts to tackle regional issues?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/23/will-the-war-on-iran-affect-aseans-efforts-to-tackle-regional-issues?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-23T05:44:13.000Z",
-      "summary": "Renewed fighting between the US and Iran has overshadowed the ASEAN gathering in Manila."
+      "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1semNqMFFTck10eXNMSVE3Nkw4Q3FRaHNEazdKT3pKc213WTVVZ0FweTlOd3JVUHFzbzFRYXNERzk0dU5EYlBIdXFvNnNlTU52SlZEN2E5UXlDQXFBRkFlczl2N21ndUxHS1FxQm1pM3lYNm5ZS1RCdUlOMDdxV28?oc=5",
+      "source": "NPR",
+      "publishedAt": "2026-07-23T17:35:02.000Z",
+      "summary": ""
     },
     {
-      "title": "US attacks Iran for 12th night as the House approves defence spending",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss",
+      "title": "US House passes war powers resolution directing Trump to end Iran conflict",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYzBLNk5peGFmRW1vWDZMUnl4UUtOU2FrNXhGSnBZUzVJblFhenkwb2lBMDB2WjJob0cyNmljbVpEc1YzSlJXX2p6QUpYcm1hbWlmR0wya3pmYnBZRzVlbW90dXNpaDY1TTJ4bGZ0b3BiYzNad0NGYU51Y0dIUEJKSDFGSlVaa1pUX3liRFpHdw?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-23T17:33:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "House and Senate split on votes to rebuke Trump on Iran war",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDBBblVoaktLQWpaVmlmdWlSR0tyMzBvT2hnZHBhUWRpM2ZmZlpPcm5jTWE2Q3ZmM2VvdkR5bFFvWTBWcUQydlQ1bEhvTm1nbVVGejhSUWRpLTBjS2tuTEp4bW44RGVLcXlWblE5bTVNXy1naW16SGppbjdmQl9kVQ?oc=5",
+      "source": "Politico",
+      "publishedAt": "2026-07-23T17:23:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-07-23T17:06:08.000Z",
+      "summary": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route."
+    },
+    {
+      "title": "Congress splits on war powers resolutions to force Trump to abandon Iran war",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblVOc2Rla2N5VjlFRGhBTHZFWUU5TmM1cjlocFo3M0pDVDdpSVNrUkF5MzM3T2pmM0t5UTdzYU1KUlJHSy1TZ1B3OVpJU1dLX3NpQ1dvUnRZbXI3ZnRtWmIxYjhaVUROQmNrclh4SlRiWjFvcU1vVWpyMnlQVi1HUGJicHYzVng0VGJyZzN5NnpEbHdCR0RUZ0lvYlJodG1seHZEa25lS0g4VFnSAbABQVVfeXFMT2JLUnhwNE54LVZHVUdWNmw3elNFeHNIYmtaeGRmR1NxSEhIbFFZY3Z1MGtKU0RVcmtTT2NsRmZ6cl9PNG9kdmFTWEdQd0dDS3QtR005ZEJrbjVPaWlTMEVkdHFkZ08xSnd0NG9tRHNCQVFvcFRKVG5YNG1SS1VlVUFrQURhTjJOdUFzTGhXbTlZNjNucjNuQXJvLVgwM0VJUGhrRVFJNm1xMTBmbkEwcFM?oc=5",
+      "source": "CNBC",
+      "publishedAt": "2026-07-23T17:00:53.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Donald Trump says decision on ‘massive attack’ against Iran is close",
+      "url": "https://www.theguardian.com/world/2026/jul/23/trump-says-he-is-close-to-decision-on-largest-yet-attack-on-iran",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-23T16:58:25.000Z",
+      "summary": "President’s remarks follow Houthi strikes on Saudi tankers in the Red Sea and oil prices rising past $100 a barrel again Middle East crisis live – latest updates Donald Trump has said he is close to deciding whether to launch “a massive attack” against Iran, on a scale larger than strikes already wi"
+    },
+    {
+      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-07-23T16:50:59.000Z",
+      "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel."
+    },
+    {
+      "title": "Oil tankers attacked as Iran threatens to turn second trade route into a ‘Gate of Tears’",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkJKVWFoWEl3NG02VG5ZNFBDNl9BdDZ4YnNKVVpzMkhUdTItWUJpMFJkQ2FiOV9Rd0Z3SVozNVYxbnItZnRtT1JIRS0zVmN6X0UtSjVvanEtMEFNTFNaNVJkS0NOcXNJb2o1bW51ZG5LOE5wNVB1bk41S1lqZXYtcV9uLWZhLXkwVW5icEFwdXJmbUp2TGpJNXRvZ1ZQODdlQUY5bUtidnBiQVFuVjdRUQ?oc=5",
+      "source": "NBC News",
+      "publishedAt": "2026-07-23T16:33:46.000Z",
+      "summary": ""
+    },
+    {
+      "title": "US House votes to limit Iran war for first time since ceasefire breakdown",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkFVaHJmUl9qSEVScjZQN0JxdkdVRm1IbzVGWFNVanIxaEtidjJVaWRYdnN5b3l5ZGdTbW83aVZteFZ5U2JCcWZaT3dVbjZfd05vOTA3Q29aZFRRZzZxcFJ0NzBhdUh1UXpVNUlOUmt6VzhUUzBld0QxSmRIZW1aV09WQ2J1dDNjbU9UNmZVRFhqclJkT2F2dGJUeFhlWF9PTUtULW9DWHNQT2ZxYk1iMFM2elHSAboBQVVfeXFMTVMxUXRKR0xVZzlIQW5scnVfWlFiaVhVQ0pkaV9xeTh6TVVQVzdPblBibVB2Qzc1QWRLdGtEQ1luVzQ0M0xwT05EZnB0dy1vSkhRSk5NZFhkM0QyY0RzalVFaGxKaXdTNjJ0M205Y3ZKN05MU2ItSjhUOG1GWkJiUFFvSnBqVDJjNWExUjc3cDBLNWV5eFY0SWpzNS0wcS1VTndmeVNQbVQ0Z3lCc3VIQ1VJVnh5U1VqUVlB?oc=5",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-23T05:36:27.000Z",
-      "summary": "Strikes from the US on Iran are raining down for the 12th night in a row."
+      "publishedAt": "2026-07-23T16:22:57.000Z",
+      "summary": ""
+    },
+    {
+      "title": "The missing half of mediation",
+      "url": "https://www.aljazeera.com/opinions/2026/7/23/the-missing-half-of-mediation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-23T16:08:54.000Z",
+      "summary": "The future of diplomacy between the US and Iran depends on giving mediators the backing needed to make agreements stick."
+    },
+    {
+      "title": "House rebukes Trump's war in Iran",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaGYtbU9RZENrWURGc1lNOW5GMlQ2MWlhQWtPRWFiTkdNUmRKcDIyRzlVbkNsdU83NGxlbHJNVV9pRzRud1hxQUJXTW9zTm91WDZ2LXB1ZVNXZ2hzZUMxMF9rU1BBYVlGNUIxenZCTW9EaWR4TTdncl9jSl93R3ZOOXlQNA?oc=5",
+      "source": "Axios",
+      "publishedAt": "2026-07-23T15:48:46.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Exclusive: Trump \"close\" to decision on \"massive attack\" on Iran",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xa2NGb1pZWklFUV9YMFNERWVHeklObERtZlhxcGNJZ250M1Btcnl5eUVWYlVXdFlSMERoc0NfdGtSQzdBdzFpWXJGUENCNkRUbHYzcWdKb0lmZVVtb2stQm9uY0JwT2RJampZ?oc=5",
+      "source": "Axios",
+      "publishedAt": "2026-07-23T15:29:27.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Iran crisis is not solely a product of Trump’s rule | Letters",
+      "url": "https://www.theguardian.com/world/2026/jul/23/iran-crisis-is-not-solely-a-product-of-trumps-rule",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-23T15:26:17.000Z",
+      "summary": "Focusing on Donald Trump’s defects risks making war appear as an aberration rather than as a recurring feature of American power, writes David Eaton . Plus letters from Blaine Stothard and Harvey Gilbert Simon Tisdall’s article ( Trump, not Iran, is the world’s greatest danger. He’s a one-man weapon"
+    },
+    {
+      "title": "Centcom Completes Latest Strikes Against Iran",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWMzYm1VTmVIeHJDS2J6Y290aHRCMzJRUzdMQi00T2tEZk5ucFBlaVFIS2xTOTdlelVpWWo1dUtMZGpLMGUtb2lsMWdDTGg4WkVZX2hLQ3Brc1I2MjJnWktKRFFNbnNVcXgtRUd0U2VTVkpFb0RiY1dZMm9xX3U0TzFnU3QzbFRKbUtqR3NjWnMwRV9McTlXbTdfUzlkWlU1SnpkZ24teEFsSS1l?oc=5",
+      "source": "U.S. Department of War (.gov)",
+      "publishedAt": "2026-07-23T14:44:14.000Z",
+      "summary": ""
+    },
+    {
+      "title": "How shipping insurance rates are rising, as Hormuz, Bab al-Mandeb shut down",
+      "url": "https://www.aljazeera.com/economy/2026/7/23/how-shipping-insurance-rates-are-rising-as-hormuz-bab-al-mandeb-shut-down?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-23T14:19:30.000Z",
+      "summary": "Insurance rates through Hormuz are currently four times the five-year average."
+    },
+    {
+      "title": "Has Russia helped Iran target CIA sites in the Gulf?",
+      "url": "https://www.aljazeera.com/news/2026/7/23/has-russia-helped-iran-target-cia-sites-in-the-gulf?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-23T14:18:31.000Z",
+      "summary": "Reports of Iran targeting sites belonging to the US's CIA first emerged in the early days of the Iran war."
+    },
+    {
+      "title": "Oil passes $100 a barrel again and shares slide as Middle East conflict escalates",
+      "url": "https://www.theguardian.com/business/2026/jul/23/oil-price-passes-100-a-barrel-again-as-middle-east-conflict-escalates",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-23T13:37:42.000Z",
+      "summary": "Sharp rise in oil price reflects fears Houthi militias could strangle Saudi exports as US-Iran fighting intensifies How the Bab al-Mandab blockade threat pushed oil back above $100 The oil price broke above $100 a barrel for the first time in two months as a fresh escalation of the Middle East confl"
+    },
+    {
+      "title": "Paul: ‘We’re worse off than we were before’ Iran war",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40V2pLMFNnM0cwUDNaVjFzQlJYWEdzV0k1TUpiYld1bDhwQkxFbzFfbTZYOWItcDZlZWt6MmJZcGw5dDVOZXF5T1l0Q1ZiZGJVdWRBUzBFN1c5TVlXZUthRmpwd2JQdlU2ZjIwc0Q1SkTSAXZBVV95cUxOZ3VwbGtET0xPYVhRT2x5SlBTSzdqZFZxNWhDenBGUVBpYUEwSDBaSUhxNmhJblhCcWdCYXpOUFFud0JTcWxrUGd4Z2Fwd09iZWRqZzJvZVNiOTZUNzJjZWpXZWxuc0ZVbzljUXR6M1IzcnpXdHJR?oc=5",
+      "source": "The Hill",
+      "publishedAt": "2026-07-23T12:10:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "The latest US troops killed in Trump’s Iran war are remembered for lives of service",
+      "url": "https://www.theguardian.com/world/2026/jul/23/iran-war-us-troops",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-23T10:00:42.000Z",
+      "summary": "Angel Rampersad, Michael Swinton, Isabella Gonzales and Tyler Feehan were among 18 US troops killed in the war A 30-year-old husband and father of two. A 25-year-old officer just weeks away from earning his MBA. A 19-year-old recent high school graduate. And a 28-year-old from Queens, New York, with"
+    },
+    {
+      "title": "Why would Trump agree to the Saudi nuclear deal? | Kenneth Roth",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/23/trump-saudi-nuclear-deal",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-23T09:00:39.000Z",
+      "summary": "The agreement offers the Saudis the same options Trump has sworn Iran will never have The stark contrast between Donald Trump’s nuclear deal with Saudi Arabia and his nuclear demands for Iran would be comical if not so tragic. Trump has handed the Saudis the same nuclear options he swore Iran would "
     },
     {
       "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
@@ -57,34 +181,6 @@
       "source": "BBC News",
       "publishedAt": "2026-07-23T04:49:24.000Z",
       "summary": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab."
-    },
-    {
-      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-07-23T03:48:27.000Z",
-      "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia."
-    },
-    {
-      "title": "US military carries out strikes on Iran as both sides threaten civilian infrastructure",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkxVRHNEai1jeXMzeVdPZVZqZmJvUjBqdTY5ZVZyWEp5bC0yWFJTWldhSlhlbFhoRmEwcFBnNkk0UWdDdHZMWFRXMk5acElxZEFSQ0otZzFQRElSMXdER1NlT0ptZUxVbTRPT3dFM25rOGtsb08yLUdXRll4SkhUZk9QejZ2RWZrb1hLcmhBYktXeEhrTTZIR3FTSTN6RUk?oc=5",
-      "source": "AP News",
-      "publishedAt": "2026-07-23T01:05:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "US House passes $1.15 trillion military bill expanding Israel cooperation",
-      "url": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-23T00:29:52.000Z",
-      "summary": "Bill to fund war on Iran and a handful of Trump priorities passes largely along party lines, faces Senate uncertainty."
-    },
-    {
-      "title": "Iran war live: US strike kills 2 people; Houthis attack 2 Saudi oil tankers",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "summary": "US and Iran trade attacks as more explosions are reported in Iranian cities, including Sirik, Ahvaz and Bushehr."
     },
     {
       "title": "Trump appears to downplay Iran war deaths in social posts comparing them to previous conflicts - ABC News",
@@ -108,6 +204,13 @@
       "summary": ""
     },
     {
+      "title": "House Adopts $95 Billion G.O.P. Budget for Iran War",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1l5a3VFYVJmUnRGWjNMYk1tSHVBLW1fNXdEUnFMakVkTGdhc2h4SXV6N2tPMHg1VWxYVGZIYzNOZFg2VUo2UUxvczdKd1N4b1hIeTFhaWNjUWtOMUtlS0FJUzByZDkzVF82MEVaRDZGN1NVa2VxeHNiRkwtMHRwUDF3UEE4Q0prM0phQUJfUlJJeTdz?oc=5",
+      "source": "The New York Times",
+      "publishedAt": "2026-07-22T22:35:25.000Z",
+      "summary": ""
+    },
+    {
       "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
       "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -126,13 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdGhlTnlHZDFXcGRXQ0k0bHZGSXBLTjJJdzBkR3J1WVJYd3VKSUJfYW9uZ2kxWUg1YXJxbjRlejZHbXVkVWtYMm9XUXVHUFlDeDhUMXV3b1lLX3k4TjI2MWlzMlhqLTREV3Z4eUpnM0FObUdrc1FxNzBDcDB4V2NTRg?oc=5",
       "source": "Politico",
       "publishedAt": "2026-07-22T22:03:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "House Adopts $95 Billion G.O.P. Budget for Iran War",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1l5a3VFYVJmUnRGWjNMYk1tSHVBLW1fNXdEUnFMakVkTGdhc2h4SXV6N2tPMHg1VWxYVGZIYzNOZFg2VUo2UUxvczdKd1N4b1hIeTFhaWNjUWtOMUtlS0FJUzByZDkzVF82MEVaRDZGN1NVa2VxeHNiRkwtMHRwUDF3UEE4Q0prM0phQUJfUlJJeTdz?oc=5",
-      "source": "The New York Times",
-      "publishedAt": "2026-07-22T21:56:01.000Z",
       "summary": ""
     },
     {
@@ -171,17 +267,17 @@
       "summary": ""
     },
     {
-      "title": "Iran war drains U.S. blood and treasure",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUWFQRmRTdXBpWjUySjA2ZFJKQnAzOHdwcE0yMjMwcDJvY3V6RXE3UHBPRWtRZ1k5ZWxhQUd6ckQ2NS03Ukk2dzFuY3NxcTRHM1NRNE5RMDVBWHFPMHBncFZrQXRSaExHOHRtR09aQWxlMjliVzNTbWlQcjlGQl93WXlpRjh4NldZYlhLZ0hUalM?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-22T17:00:00.000Z",
+      "title": "The American People Need the Truth About the Iran War",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUG9oRGdueDkwM1ByTS13VDNicldrSTd4NXZiM042UGJ6UldhMzM1OFpBNkd4ZEF0ZS1PdS1IakVxNmUxMl9DN2Myb2FXT0dXNTVHc253Szk0aWNTdVdKRXQ2S0djUFRtWHhFRnZVMWhDai14QmxfZExsbVB5cGtUa0xEeWs?oc=5",
+      "source": "The Atlantic",
+      "publishedAt": "2026-07-22T20:03:30.000Z",
       "summary": ""
     },
     {
-      "title": "4 US soldiers killed in Iran war return to American soil",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOODJZQlJUc3VCSE14Ullld3FGVU5GcDdHZEJhTVVzb3UwRkF2c0hPVUlnNzZhaFVTYTNnd3VMUTlJUVRfRWRrNXRBb0lSclgzekJoR0FTUXU0aXp0YmlYdndyY2RJUTVudnZReTZBa0xfUG1xQi1XZWEzSWQ0clV4bk4zQW0tVGxkdF9kcUhwcTdaZHJ2WXo0dEZFdmZZVkg0c2VXWkNaN1JiQXNTNllrbXVjcmE2WkdM?oc=5",
-      "source": "Military Times",
-      "publishedAt": "2026-07-22T16:20:22.000Z",
+      "title": "Trump says U.S. will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVGpBZ1VUa001aFE1aXZXeTcwTVlldHMyeFFiWXZ6a0hxRUR1VXZqUXhtMTRob3RrZzFKYnV2UzlqMHRmcmxsdzdjNnFZQ1hsV21yTVZSZ001NW04Ujh1RHBIa09NM0tvdlNaSnJLVHJjNUh4SEloa2o4aWQ3SWNlVTZBZGhWZVh2eXdLUkVBRkU4VDRtdHR5ZzI3MFNhT21VSDN0WVZ3T1A4WUhQMGo4ck9Fc0ZwOVBZWUJrRktHMVJ5OFVpVFR6RFZiQ2pEX0XSAdQBQVVfeXFMUG91b2tqa3pPQndEOHY2RGVObU1qT3dxQjc1QU1OX2lnbEctYktUUE90Szc0SFpVdHdGNzA3My1hOTlvdWJ2dUhSalE5NFlST1FwSkR6NXNvQUtsV3pFd1NkNnNTRWxDYXFHQ0kwWHhXZ1pXMnBnU1hnT2FpazN1NkFkdEJLcUtTdkJNTVh5S2d6VXRsXzdyajRSWjIwVzZEakQzRWxpUWlVbW9tQ0FCekhPUmZiT0trTUZLS0c2ekE3LVBsSnY4bU10WVVxUkZXNXlWWTg?oc=5",
+      "source": "PBS",
+      "publishedAt": "2026-07-22T19:42:53.000Z",
       "summary": ""
     },
     {
@@ -192,25 +288,11 @@
       "summary": ""
     },
     {
-      "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
-      "url": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
-      "source": "NPR",
-      "publishedAt": "2026-07-22T11:24:22.000Z",
-      "summary": "Trump will attend the dignified transfer of U.S. service members killed in the Middle East. And, Pete Hegseth is requesting billions from Congress to help with the rising cost of the war in Iran."
-    },
-    {
-      "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
-      "source": "NPR",
-      "publishedAt": "2026-07-22T10:46:01.000Z",
-      "summary": "The fighting comes as the Trump administration is seeking billions of dollars more from Congress for the war with Iran, which Defense Secretary Pete Hegseth says has already cost $37.5 billion."
-    },
-    {
       "title": "Has Trump dragged the US into a forever war in Iran? | Mohamad Bazzi",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/22/trump-iran-forever-war",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZTBIcXJuX0ZpbFpfVHdHc0NOS3BZUUhKeWFTMjdXV085aW8zRG5qVTlGRmZmbi1TOXpmUzM1XzFGcXJQNHpkbm1DR1dPTnI3VUhXbm0yVThVb0ZnZXNkWFJJVDJqaVU4LVM1XzVLakRaMlgwaVBqRk1XZm5GOFBZaWp3?oc=5",
       "source": "The Guardian",
-      "publishedAt": "2026-07-22T10:00:13.000Z",
-      "summary": "He decried endless wars in Iraq and Afghanistan. Now he may be stuck in one of his own making As Donald Trump launched a war of aggression against Iran nearly five months ago, he insisted Washington would achieve a decisive victory within weeks. Trump and his advisers scoffed at any suggestion that "
+      "publishedAt": "2026-07-22T10:10:00.000Z",
+      "summary": ""
     },
     {
       "title": "‘A politically impossible situation’: New poll shows Trump voters losing patience with Iran war",
@@ -227,10 +309,10 @@
       "summary": ""
     },
     {
-      "title": "Oil prices rise after Rubio says Iran is not serious about a deal",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDRBcnVRY3V3YkNvM2hFak1wSFc2dzhMbDRpbGMtUjFFcHBjOXpGU29rRk5sQUFjNWhUb2VwZ0EtNUVKWmRPSkJ3UGV4RThUMzBWMHVBUHo2Q3o2LVBFVG5VQmRkUnhHbDQ4Nm9QNkY0WW9yd3RMbEQ0V3Rad09nQV9tdk7SAYoBQVVfeXFMT1hrakZEUml5UTFEUElKdDRTTEVqOGZxYVRSWE1RMGtNc291TjdTc1BwRGlCUkdISDRFUDluWlZKMjI1VjBNbFZodDlxV1dPeDRhUHp4WTdyX2VRbHJ2WmFOUHh4VWRoZHhDRmRKRkRycXdFY0g2T3BiNU1fZkdKMnkxS2oyZFRYQ2h3?oc=5",
-      "source": "CNBC",
-      "publishedAt": "2026-07-22T07:56:07.000Z",
+      "title": "Direct & Indirect Taxpayer Costs of the Iran War",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZWpnODJoOUdoRnpxTlRJcnhDZnlCV2xfZFlBX3pGWGtYWWRwSmdkcU9ob1BlRE5GNlV6ekFyY3BVVlVfNDNCZUtRbWtkN3dteVc5eEkza3piRkRyWXRJOW44RmlGMHpBc0VyTDJscEg2dDYtellXZzNrWkE5M1ZEZ29pZ3JieDVXMFhQN3c1a1UzMGtT?oc=5",
+      "source": "Taxpayers for Common Sense",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
       "summary": ""
     },
     {
@@ -239,13 +321,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-07-22T06:00:07.000Z",
       "summary": "Iranians describe how daily life is becoming ever harder as conflict continues and human rights crisis worsens As US airstrikes hit port and inland cities in Iran, and Tehran strikes at the US’s Middle East allies, the escalating conflict has left many Iranians fearing that, amid war and a worsening"
-    },
-    {
-      "title": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3ByTjM2MjQxUW43TEtOc0JJNXpDYmNxdDNYRlNXMk0yZUNlYnMwVXlrZUxyMlF3UlZjMk9IOFpzVjl6TzI3Q0JPQ0hkazlZSDFHeWpHYTN1RVp0QjNYQTlYX3g4TlVBZmlEV0VIT1ZXaG1nUTFnYnRGTGhDOFZrWFVWc1B4LUI3Q0JhQjlvMkgyTk1HU09UcG9TNDN4M0E?oc=5",
-      "source": "AP News",
-      "publishedAt": "2026-07-22T05:47:00.000Z",
-      "summary": ""
     },
     {
       "title": "Wednesday briefing: How Trump’s Iran gamble has produced a crisis reshaping the global order",
@@ -260,13 +335,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-07-22T05:00:07.000Z",
       "summary": "Abbas Araghchi says he has kept on the move since being pulled from rubble after strike on first day of war Iran’s foreign minister, Abbas Araghchi, has described how he was pulled from the rubble of a leadership compound after the US-Israeli airstrike that killed the country’s supreme leader, Ali K"
-    },
-    {
-      "title": "Hegseth says Iran war has cost $37.5 billion, defends request for more",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMEtLcUJfSEVjZ1I4WTU2cnNYenZrVVlBUEFHLXJSVTJZUjg5UzBuT094dVlYV1A1bjlVQXZDek91ZzlkelRvLWhOd1MwX3kwR3ZCOS1XbWF2M2xITHRtV0w2bVVnMmkyWkpQd2ZxWFJIcGVoN3dtNU9ndi1VOEo0Z2s5cE5BOW9KRktySHBvN0xGUlg4d2JGWlpJWmNVQQ?oc=5",
-      "source": "The Washington Post",
-      "publishedAt": "2026-07-22T04:30:00.000Z",
-      "summary": ""
     },
     {
       "title": "Hegseth estimates rising cost of Iran war now at $37.5bn – as it happened",
@@ -288,6 +356,13 @@
       "source": "BBC News",
       "publishedAt": "2026-07-22T02:15:05.000Z",
       "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war."
+    },
+    {
+      "title": "Iran Update Special Report, July 21, 2026",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSndmM0xlUTFZN2FNZVNaT1ZQc3o1R001SENxbnh6V1JGNFhhazlnb3VZbzZwNFV2MXVfbjRBLXRNV1lmZG0tUTJyVlc4cUtmdU5na0VxZTJPZ0szQ3ZHRkZQSk9zelY2QUFYMnluenpQaWVBdUljYVdWMjZCRjcwQ0ZWQi1XTl9fRUJyVy1EemYyb0tG?oc=5",
+      "source": "Institute for the Study of War",
+      "publishedAt": "2026-07-22T00:31:00.000Z",
+      "summary": ""
     },
     {
       "title": "Pete Hegseth puts cost of Iran war at $37.5 billion as the Pentagon seeks more money from Congress",
@@ -318,17 +393,17 @@
       "summary": ""
     },
     {
+      "title": "Senators grilled Hegseth on Iran. Here are 3 big moments from the hearing",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNanhHVGR5RmFXR1pnanZYWlNDN3EtOXdRbkR3VEl2Y21yMGtjN2ZpWkEzcW8yYzNZWUVaakluRkxwcVpod2JvZVUyaFJFSWY3aTlaVUVEN1dUbE1SZG1odnJQT1MwVkhfMUszblhtdUFwa0daVGdqSnlWNWRLNkY1cGtmY1FwbTl6QmVHU1VjQWpGRlVOUU1KMDB5bVVHOXMwbGZUOGE3OHRkS2FSRG9j0gG0AUFVX3lxTE9MN29RWXRMY1hGUnNjSk1tRDAtVmlaeW9iUG5SR3lCa0g1VEpyd1ZsMWtKVVlad0JnMkdOSnA5OElnaExGc0VWWnprRkY3VFB5MUhyR2JzbXZWN0VNTEw5Y1R6QUY4MVFtcE5yT1VnRU5wZzFtaE5VZDJsa3E4aU1SUDZ0R1FvSThsbkhCWTJxeDd3eWlnNGhRZ3VleThUV2NncnpUek9rREFwMENWdG12MVNraA?oc=5",
+      "source": "PBS",
+      "publishedAt": "2026-07-21T23:00:45.000Z",
+      "summary": ""
+    },
+    {
       "title": "Hegseth says Iran war has cost $37.5B so far and Pentagon needs $67B to restock arms",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHVGSmZrMGZKeGxYWi1ESXdqRFN4ZVRtRmctS29HVnUyb0pkTHA0VHIwaEhBMHlGRnFwM3pPSS1HbXNKbEdWZ0JFUVFhRHVwM215UUk0RTZ2UnlpRUdiZEhxaEU0elRKejJWSHBmMFQ1c0lqcTZUUmJkM0ctRDRLWmpBNHVfRjlNSFlhbGxFcFNfb0dqT1NIR3VMUG54SzhQTV9KY1AzRXE2dXg2bzdHNWxTNXVrYWM?oc=5",
       "source": "PBS",
       "publishedAt": "2026-07-21T22:55:58.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Hegseth says Iran is weakened, but won’t give timeline for war’s end",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xdV9ad3VmOHp0blJEQlBwUHpOY2Q4NFZCR2ZITE0xejBtWUlIaFU3cTFqalV4V3o0SUJvd1pnZ0VYZW8tLXhfckhuRjZwZzhtRFVzNXBsNF9kdnRaU0xyc2FabGF3cUZBZE1jWXJLN1lFMVFrTEVCbkYzTUtKZw?oc=5",
-      "source": "Politico",
-      "publishedAt": "2026-07-21T22:48:00.000Z",
       "summary": ""
     },
     {
@@ -339,17 +414,17 @@
       "summary": ""
     },
     {
+      "title": "Hegseth Estimates Iran War Has Cost $37.5 Billion",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GcktLMlpYTVVRRHVYYndOU1BrREo2Um1oWDlhN2JyX0xpeThWcUM2aExvTHJjSGFIWkM5YW8ta3ZtcGhJZU1QOWFkWFhraUhUb1cxUGRqZGxfaDdwMDFMc2ZIVldHRXIxbEp3UXdWaUJLME1pZDA4SFFzZGVkN2s?oc=5",
+      "source": "The New York Times",
+      "publishedAt": "2026-07-21T21:28:48.000Z",
+      "summary": ""
+    },
+    {
       "title": "To Base or Not to Base: The Iran War Exposes Flaws of U.S. Basing in the Middle East",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYW1nbGM5c3RKWnY4Mk5kZDU1dzh4aUFCRFBLaXhBbkdZT3FWcENKUTg4UTJIUDJua01oR0ltdGZZQ2pYaFVPTTdKeHZQbzJCNmNzcnpNVUhvbFR6dUR6cHhlSFpkQjAtT05HbmpTRzJBSlJFdUkzS0VsTmtUOUdrMEk3UVcya25VQ2hrZXEySWdRMU9kUV9UcWhDSTY4c19EQ3gzTGEtUU9aSXJjLVNr?oc=5",
       "source": "Council on Foreign Relations",
       "publishedAt": "2026-07-21T20:58:44.000Z",
-      "summary": ""
-    },
-    {
-      "title": "War in Iran has cost the US $37.5 billion so far, Pentagon says",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGhIUDY1XzFtb1pDNmE1ME9sMjVXRXJPMXBxelpQZlJlcDd5eEIySWxObnlCY1BiR1lNRnVLWEt0M005NTRCcUtWRU5oZmROVmZJMW91aE9nVWNGUmF0V2J0dHZSci1mM2c4NFE4c01pblBucXJfSW5lVWJUeE95VGNjbl9OOFBVQnZsTFBmeDRvMGxIeEpfVWlUbE96SWxXSGNHM1o5aTNzV2c?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-21T20:55:00.000Z",
       "summary": ""
     },
     {
@@ -367,25 +442,11 @@
       "summary": ""
     },
     {
-      "title": "WATCH: Hegseth, Caine defend Trump's funding request to Congress as Iran war reignites",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRC1MWUdFNWp0SndkaWd0OXNGdGNmbG9HczdtT1Qxa3h1NDdUNmFjMVVGWW1BWjJ0Q2VsbjRnQUpVREhpd2pXcFFLX0VRaUNiQ0hvQVlqNUJYWmZqUEFaQThQOWMzeGRhdXlkTUh5bkVWQjdCY0d5d2VqWnJVTGdXLWpPYVlfSGhNbVhMbkhXdmQyMVNyQmNuVG15NXlrNmFNd1A4aWJ3MjgyWVB0LU1FT00xSjVyUGJMM2lKZ2o0R1FXZm9zQlQySW1Eak3SAdIBQVVfeXFMUDZ5aG1FN2VZUzZ0T1lBbzdaWTFRTDZzRGpTbDJDYy1qWExodWdOcTlIdU5MYm95WGF1ZENWUzRyQzd5NmtjUGM2SUxfVWZsejFzaFE4RS1pRzdoVXJ3TkpaVDExY0Vpa2c0V1doSWNTc3JxalBRMGMyVHZmTWFJM0FWS1ZEdG0zeWdQaTU2bl9na3B3QnhVX1Vib19zZy1lZld6NU5aRExoNWFoZ0oySXlfSVJzbUd3empkcXYzcjBxalF6RmVIYjZUM3JtRWR0WkNB?oc=5",
-      "source": "PBS",
-      "publishedAt": "2026-07-21T19:05:00.000Z",
-      "summary": ""
-    },
-    {
       "title": "Houthis threaten to attack shipping tankers if they use Saudi Arabian ports on Red Sea",
       "url": "https://www.theguardian.com/world/2026/jul/21/houthis-threaten-attack-tankers-saudi-arabian-ports-red-sea-shipping",
       "source": "The Guardian",
       "publishedAt": "2026-07-21T17:27:45.000Z",
       "summary": "Warning to shipping companies, on top of Iran’s chokehold on strait of Hormuz, may severely affect Saudi oil exports Yemen’s Iranian-aligned Houthis have warned shipping companies that their tankers risk being attacked if they use Saudi Arabian ports, as the militia moved quickly to enforce a blocka"
-    },
-    {
-      "title": "The wishful thinking behind the war with Iran",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xZ2tiSWQxZUJvT040UXl2YTU3QXpCY3RrQ1pidTRlNEQzaUkyLVFRbmJVcFN6ZkxJUUVoT2pjN0VSTWVGc2lpNUtqWEhlRnpRZ0VJZzVhbjJXNVRHVjkyS1RCZFZiRFd1RG1xWGFudnpPUTV3VEFqdA?oc=5",
-      "source": "Chatham House",
-      "publishedAt": "2026-07-21T16:47:19.000Z",
-      "summary": ""
     },
     {
       "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
@@ -402,46 +463,11 @@
       "summary": "The US has carried out a fresh round of strikes against Iran, after three US soldiers were killed in action. The Pentagon has also admitted that nearly 100 US service members have been injured over the last two weeks, as Tehran launched a wave of reprisals to the tenth consecutive nights of attacks,"
     },
     {
-      "title": "Zendaya faces backlash for wearing ancient Iranian jewellery at Odyssey event",
-      "url": "https://www.theguardian.com/science/2026/jul/21/zendaya-faces-backlash-for-wearing-ancient-iranian-jewellery-at-odyssey-event",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-21T15:01:36.000Z",
-      "summary": "Film star promotes Christopher Nolan film epic wearing gold artefacts dating back almost 3,000 years The Odyssey is a story about a Greek king’s long journey home. But a pair of earrings worn on the new film adaptation’s press tour – and their long separation from their homeland – is sparking contro"
-    },
-    {
-      "title": "RBA now twice as likely to hike interest rates as US-Iran war drives fuel prices higher",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-21T15:00:51.000Z",
-      "summary": "Experts warn global energy market at a ‘critical juncture’ with escalating Middle East crisis expected to further drag on a slowing Australian economy Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The likelihood of a Reserve Bank "
-    },
-    {
       "title": "Why Iran is risking so much over the Strait of Hormuz",
       "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-07-21T14:36:47.000Z",
       "summary": "None of the choices facing Iran’s leaders offer a clear path to victory, as the conflict with the US continues."
-    },
-    {
-      "title": "US identifies soldier killed destroying downed Iranian drone in Iraq",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/identity-soldiers-killed-iraq-iran-war",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-21T14:31:15.000Z",
-      "summary": "Sgt Michael Emmanuel Swinton died during controlled detonation, bringing total of US personnel killed in war to 17 The US military has identified an army soldier killed recently during a “controlled detonation” of a downed Iranian drone in Iraq as Sgt Michael Emmanuel Swinton, of Fayetteville, North"
-    },
-    {
-      "title": "O’Reilly: Trump has ‘shrinking options’ in Iran war",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd0VKRFJZVkw2WTVkRURnVFl0emo1V2psM3lsdU5manpPb2xZUENBMC1yb2tkSGtXdVFZSnl5QkczU1l0RlJyc2N3c3JzSkNYZWJzMndwUk42TnRXZkhxQURzMzdJNjNXZ1VjMERFanZzTkpnMXN6bmxFc2dGaWVnQXpQV25XM0ZEWjc0Smg5NNIBlAFBVV95cUxQUGNIQmxmT0JmakEzMTFaMXN4dXAwUExySkhBVEU3Y0pCYkNoNGZlbFpDVkhBRkhfczc0eVFJM0NCbERzcm5faEdQeVNEdFlYQ2QwVEZQM3pWQUlCN0lJVko1N1MxdmxEUUVKbnFhQ1p4bGJJSmFWZklRSDBnSG84a0VobURaVDZiRDYxalRjTFU2WUl3?oc=5",
-      "source": "The Hill",
-      "publishedAt": "2026-07-21T13:19:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Iran war 'stagflation' premium quietly mounts",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTMyMnZRRjJYS0V2dU93T3pzeU9idk9xYzBLNjJ0WVRqTWQyUWZLQ3dkeEFjc21ZUXdYVThWZUlaSXZtblN3S1NHOWxfcWV1YWZjbzlzdWE4ZkRnYlZhWDZOLUdUZ1ZmX3B4M3dJcS1YN1JWVnpoTGJlR3dtQnJWOGVHR1l1bEk0S1J2OXJmQTNrSEJWS1ZwNUxoN19xSTVZczRSMHdQeXFaTUFBakxYbF9B?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-07-21T13:04:16.000Z",
-      "summary": ""
     },
     {
       "title": "House Republican on Iran war: ‘We should have finished this a long time ago’",
@@ -465,10 +491,10 @@
       "summary": ""
     },
     {
-      "title": "On sidelines of Iran war, Israel is readying plans in case of escalation",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGdLbFNCcEZ5TE1NYldLc3hwenNhSUZ3elUybHlOQzBmRzQwdGRNUUMwcnZLajZLRkNrMWhNeUdiYzdOUUgwSHJ3S1lndENXelRvRUJUcHRiSFBWTUlyS0o2ekVLUHVtMjJOcnFNQklCSGlRWWx2cjdjOFI3U2UyYzRxSG5Ba29HQklZeVd3?oc=5",
-      "source": "CNN",
-      "publishedAt": "2026-07-21T11:13:06.000Z",
+      "title": "‘A persistent dark cloud’: Trump faces a bleak new phase in Iran as GOP midterm anxiety grows",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnV2by15NWVrdjFldFdLZUpyb2VKYjV4d0VzSlFHT081cDFBVGp3UGlENkFXMnJlTHVIMm9uYkZOQWtSeGhYZUY0a3phOWQxTGxsR1RWR0RER2FvS3JVZ0syeVJfNkFxM3NSV1VTNWxvUmhoVVNabVp1QkFuNVRQV3ZCeVdCVVBuLUtKdzdNYTdBVlJCZzlzNU82MGkyblZuRmpVR2ZBZXdUVVhwQkhCZjdYdlZfQ3hJOXE4MFZmSW4?oc=5",
+      "source": "Politico",
+      "publishedAt": "2026-07-21T09:45:00.000Z",
       "summary": ""
     },
     {
@@ -493,13 +519,6 @@
       "summary": ""
     },
     {
-      "title": "US issues ‘worldwide caution’ for American citizens – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-21T05:32:17.000Z",
-      "summary": "This blog is now closed – our live coverage of the Middle East crisis continues here The price of oil jumped in early Asian trade on Monday after the US carried out its latest wave of strikes on Iran and a vessel caught fire in the strait of Hormuz. Brent crud e for September delivery rose 2.72% to "
-    },
-    {
       "title": "Iran says it attacked Amazon infrastructure in Bahrain",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTEw4M2VDTUNuRDN3anF6bXQyb2JtUnI0bTBPV19INldFQy1xcHh2Vm9yeEZTd3hoSVYyYTEyZ29YVEtodmkzT3JTNWR1SkxPekpJZFJ4NXNRWW5PZ0lNSjFLN1hWOTNwRzA0TFIyWERDenBIR040bGZlU0ZsalVYSFZ3Z1RlOEZicGx0Q0FyX1U3LWRjcVp4bWVwMDl6alVVWFd1NDdyNNIBrAFBVV95cUxOaVBSUmZ5TlNCRDd1aEdqcE1QRms4UFh2SHNISFEwUm5fLXZZem92aVR5bFhxZDIzVmdIWlBvVTU5OWEtS3JBTFNLYUt4OUxsVUkyMnNFbGdGR25Pd18tUmpmUnNXcUg1Z1F5NFhBUUFXc29KOHlWbzlvdTk0ODMyeUx3RmtTS1J5OTVHejJGa1Atc2dGV0F2T0ljeEVaa09fQ2d0cDNwc0R3UnVV?oc=5",
       "source": "CNBC",
@@ -514,17 +533,17 @@
       "summary": ""
     },
     {
-      "title": "Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies",
-      "url": "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-21T04:09:54.000Z",
-      "summary": "Iran has attacked a tanker in the strait of Hormuz, forcing its crew to abandon the ship, after the US launched a tenth consecutive night of strikes Middle East crisis live: follow latest updates Nearly 100 US service members have been injured over the last two weeks of escalating strikes on Iran, t"
-    },
-    {
       "title": "Iran mediators push new ceasefire as Trump eyes all-out war",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BU2NwU0RESnRaNHR5OTBTeVRHVFVyZ2hMbFRiTjdsQnlyZXBtcjRTOVhxZ3A3Z2QtUHFyeU91QzExejdUNUxzSEZaalZfX2JGa0Q2TWZWaUc1bGpTcFpEVzZzNXZQSlU2RnlfckF4U1BRZ2ZzLTg1QUhob0hmUQ?oc=5",
       "source": "Axios",
       "publishedAt": "2026-07-21T01:36:26.000Z",
+      "summary": ""
+    },
+    {
+      "title": "US gas prices back up to an average of $4 a gallon again as the US and Iran launch attacks",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdnQwZTRwYkFHa216RUhGUDBkaUVQQW8xeWk2S180OFo0ZUExYXJPcnZGUW5DQ21QSEpJRlQ1M05tcDNYZ2Z1MXRsNGRSbFFXREw1RWFUZGVhNnEtMnFBRlVsOGNvMk9Pd0NFM0hKRlkwWVhXNDRYY0U5bXd2QkZheTRfOUtLYi1kWXlvb3BsellRQQ?oc=5",
+      "source": "AP News",
+      "publishedAt": "2026-07-20T22:19:00.000Z",
       "summary": ""
     },
     {
@@ -535,59 +554,38 @@
       "summary": ""
     },
     {
-      "title": "‘It needs to end now’: Democrats urge Trump to halt Iran war after US troop deaths",
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/democrats-trump-iran-war",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-20T21:45:16.000Z",
-      "summary": "President accused of having ‘lost control of this war’ as deaths of trio in Iranian military strikes fuel rising concern Democrats have seized on the deaths of three US troops killed in Iranian strikes to urge Donald Trump to urgently reverse his resumption of the war with Iran amid widespread anxie"
-    },
-    {
-      "title": "Trump says the United States is 'not finished' with Iran",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGdIQV9EcnVveTBSTVNVbXpjV2M4a1gzUXRRSldqNXpaSnJqd3ZuRmNMbFRxb1lGVlFGdzRoNWJrV3Rja24wSG5rMVBJTzk4OW80cU45SU1EVUNPenU5ZzRxNENwUVBuaUxfQmUxTUVGRnQ2SUlGUnkyckIwcVdQZzROdExHa0pYVG8yODJkOVp1UzRp?oc=5",
-      "source": "DW.com",
-      "publishedAt": "2026-07-20T20:51:43.000Z",
-      "summary": ""
-    },
-    {
       "title": "Trump administration says Iran war reaching ‘time of ambiguity’ as military strikes escalate",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaHZYTUlIbFNGT1pOdFR0SEF6bVRnZ3hzOEFLVmhjTjVsUEl1V0xHN21RTHJENW9lTEgyMUpPX1RDUXJuSlozWFJVTWl6UkNDUllGbUtwU01YREpUVFNFazFpQ2xva3FTWFN4eUJFMXBoeGk5OXVubUJOZ3ZqeUF4Tk5henpyQnROaFlLUnJMQVI0U1FUcHpLNVJWcV9ldFRwcnBMeG56OGhmNTFxTHNvTGlWeUFOMmVaYzUxUDcxUzVrUlVkZ1ZURk9qS0l2MW9Xdk9tWTB3LVpPXzFYU0RBb3pn?oc=5",
       "source": "NBC News",
-      "publishedAt": "2026-07-20T20:45:21.000Z",
+      "publishedAt": "2026-07-20T20:45:03.000Z",
       "summary": ""
     },
     {
       "title": "US launches 10th round of strikes as Iran says it is in ‘full-scale war’",
-      "url": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2lqYURIaDAySDVzVnJYZ2kzMVN5WjJLeUNxc3NKZmNRWS1NZGZ2RVp3Vkt3VWxBMFpDb1RoV1YzTWxsQ2RoVWN0UUhfQ09oQkM0T00zbElUV0tWbVNQVDVoNGo4TGZCeEt4Y1c5T2pwcFFKcEJUeVA3eGJNRnNLMDJqLW8xR1ZwcGV4dXdWSExpa3M?oc=5",
       "source": "The Guardian",
-      "publishedAt": "2026-07-20T20:19:46.000Z",
-      "summary": "Diplomats say de-escalation talks continue as Trump vows retaliation over US soldier deaths Middle East crisis live – latest updates The US military said it has launched its 10th consecutive round of strikes on Iran to force the reopening of the strait of Hormuz. Earlier on Monday, Iran’s president "
+      "publishedAt": "2026-07-20T20:19:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "How America can actually win the war against Iran - opinion",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2Nm5vdEx3YWJ3eDJyOGZjYmJkVFFrR3l3a0l5SVBGR3lSUlZlSnJyNHl4eXNvbmRhVzNyeWpxRGtBTmZJWC01TWQxcm5PUDhtUkVva1lYQQ?oc=5",
+      "source": "The Jerusalem Post",
+      "publishedAt": "2026-07-20T18:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Iran War Mediators Push for Traction on New Ceasefire",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMm5aQXdjUnhWY0dqVlktZlgzamtLaFAtRHhMcC1MV0gyQ2ZzY1JlWjFDblpPbEFWWk82cTljYVZSbml3UTNPYUpRRDBJdHFWaGtjOXFYdWhTTi1TT19nWjc5MG90Y2phb2pnaTFDYW4xVkxJSXdMTHFSV25lSTJhMjc4QW5QcUpEd3ZnZzRTWkdsLUVnMGdtc3dLX3M5OUVyQU5lRA?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-07-20T17:30:00.000Z",
+      "summary": ""
     },
     {
       "title": "Mission in Iran war has pivoted toward ensuring oil flow, Trump official says",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUNSTDc4QmZaOWZITUNWcUx6YzJOeTdEbWpEWG5kUnNleFRPU1huV2g3bm0yV3gyXzJlX2M4YU5aVjYtdVdtNnNjTEstbXhKZ1QzTXROZUFZa193eDNrbGZXV2RBNkN5VkpJcm50NjNjWXhHTDA0a3I2OUN6NXV5NDBKa2M3MGhmWkxwU2lneDZjc0dQcC1zbk5R?oc=5",
       "source": "The Guardian",
       "publishedAt": "2026-07-20T16:27:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "'This Must End': Lawmakers Demand Termination of Iran War After Three U.S. Service Members Killed",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX3YyakowakhTWFl2Ym8tUTZaS2dXdy04Q0FSdlhFWjc4dWF2RkFGaUFCVFVMMnFGMXd5ZzJHc1l4dXBYc1JZYWI2LXFjdkg1eE5iV3o0NHN6Mmc1a1dUNERESElpUHhBc0JTZXR4TlRUbVZLVThYX29FZnk1c2xvNXhkSy1kVVFmTDVnUE5JQ1BLUmQ5RXo3ZnBEZUpUcHRwWWJ3a19ISFk?oc=5",
-      "source": "Time Magazine",
-      "publishedAt": "2026-07-20T15:43:14.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Trump: Strikes carried out 'in honour' of American soldiers killed",
-      "url": "https://www.bbc.co.uk/news/videos/c3r0x5x7qd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-07-20T13:38:17.000Z",
-      "summary": "The US said it launched a \"new wave\" of strikes for the ninth consecutive night as explosions were heard across Iran."
-    },
-    {
-      "title": "News Analysis: Trump, long a critic of ‘forever wars,’ may be stumbling into one with Iran",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbEVoUUNPZzFZTEc1dFdOQml3aVlVS0diQmozTmpLc2daaXhmWmlpNEdUSUlNZGFMRDhpMEJQN3pvMVl6MHdMeVZqYUp5Yk00czhqYldYRk5HYWVTUVZkejNGQ25nQzBRZzgzY0xtelJlem9YT3lwamZDX3dwNU1vMzc1Z01PTGJBazE0TkstS0xDRUVwVG9GTXVqNDdXdmk0QWx0LUNLYXE5V2ZpQXZtQ1FkY2F4MlptQWRhOGh5YWE?oc=5",
-      "source": "Los Angeles Times",
-      "publishedAt": "2026-07-20T10:00:00.000Z",
       "summary": ""
     }
   ]
